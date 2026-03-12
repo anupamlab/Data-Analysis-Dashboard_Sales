@@ -28,17 +28,11 @@ The project demonstrates key data analytics skills including:
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Output
 
-```
-Data-Analysis-Dashboard_Sales
-│
-├── app.py                # Main Streamlit dashboard application
-├── generate_data.py      # Script to generate sample sales dataset
-├── sales_data.csv        # Sales dataset used for analysis
-├── requirements.txt      # Project dependencies
-└── README.md             # Project documentation
-```
+<img width="40%" align="center" alt="Github Image" src="./dashboard_output.jpg" />
+
+
 
 ---
 
