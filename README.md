@@ -102,13 +102,6 @@ This project highlights the following data analytics skills:
 
 ---
 
-## 🙏 Acknowledgement
-
-Parts of the code implementation and troubleshooting were developed with assistance from **GPT** to explore different approaches and accelerate learning while building the project.
-The project represents a learning exercise aimed at understanding practical data analytics workflows and dashboard development.
-
----
-
 ## 📌 Future Improvements
 
 Possible enhancements for the project:
@@ -119,3 +112,7 @@ Possible enhancements for the project:
 * Deploy the dashboard online for public access
 
 ---
+
+## This project was developed as part of my learning journey in Python. As a learning assistant to understand concepts and structure the code took help of GPT Models. The final implementation, testing, and project setup were completed by "infoanupampal@gmail.com"</span>
+
+
