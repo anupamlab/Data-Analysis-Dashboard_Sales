@@ -1,0 +1,1001 @@
+Order_ID,Customer_ID,Order_Date,Product,Category,Region,Quantity,Unit_Price,Discount (%),Sales,Payment_Method,Delivery_Status
+10000,1496,2023-03-05,Jeans,Clothing,South,2,1458,15,2478.6,Cash,Pending
+10001,1709,2023-07-31,Phone,Electronics,West,5,54,0,270.0,UPI,Pending
+10002,1540,2023-05-11,Shoes,Clothing,West,5,218,15,926.5,Cash,Shipped
+10003,1765,2023-02-25,Laptop,Electronics,North,3,445,15,1134.75,Credit Card,Shipped
+10004,1052,2023-08-13,Watch,Accessories,North,2,1223,10,2201.4,Debit Card,Shipped
+10005,1436,2023-06-06,Headphones,Electronics,South,2,1412,0,2824.0,Credit Card,Shipped
+10006,1992,2023-01-18,Shirt,Clothing,West,2,1120,5,2128.0,Debit Card,Shipped
+10007,1024,2023-10-23,Headphones,Electronics,East,3,248,0,744.0,Debit Card,Pending
+10008,1560,2023-02-26,Shirt,Clothing,West,3,1415,15,3608.25,UPI,Shipped
+10009,1049,2023-11-28,Shoes,Clothing,South,2,618,0,1236.0,Credit Card,Shipped
+10010,1833,2023-09-28,Shoes,Clothing,East,4,236,10,849.6,UPI,Delivered
+10011,1369,2023-12-30,Phone,Electronics,South,2,1108,5,2105.2,Credit Card,Pending
+10012,1898,2023-01-29,Shoes,Clothing,South,4,1458,0,5832.0,Debit Card,Shipped
+10013,1654,2023-02-22,Shirt,Clothing,West,3,128,10,345.6,UPI,Shipped
+10014,1085,2023-11-26,Jeans,Clothing,North,1,319,5,303.05,Debit Card,Delivered
+10015,1823,2023-04-19,Shoes,Clothing,West,2,1487,10,2676.6,Cash,Delivered
+10016,1861,2023-12-26,Laptop,Electronics,North,2,68,5,129.2,Credit Card,Delivered
+10017,1906,2023-11-17,Phone,Electronics,South,4,50,15,170.0,Credit Card,Pending
+10018,1454,2023-06-01,Headphones,Electronics,West,4,1449,10,5216.400000000001,Debit Card,Pending
+10019,1323,2023-02-02,Jeans,Clothing,North,3,1154,5,3288.8999999999996,Cash,Delivered
+10020,1359,2023-07-26,Watch,Accessories,South,4,1042,5,3959.6,Cash,Shipped
+10021,1842,2023-08-06,Laptop,Electronics,West,2,998,5,1896.1999999999998,Credit Card,Delivered
+10022,1547,2023-05-23,Shoes,Clothing,West,1,187,10,168.3,UPI,Shipped
+10023,1361,2023-04-29,Shirt,Clothing,North,5,1358,15,5771.5,UPI,Delivered
+10024,1306,2023-02-20,Jeans,Clothing,North,1,667,10,600.3000000000001,Credit Card,Shipped
+10025,1146,2023-06-19,Tablet,Electronics,South,1,769,15,653.65,Credit Card,Delivered
+10026,1044,2023-07-26,Tablet,Electronics,North,2,871,5,1654.8999999999999,Cash,Delivered
+10027,1008,2023-04-06,Shoes,Clothing,East,3,283,15,721.65,Cash,Pending
+10028,1765,2023-08-25,Watch,Accessories,West,3,1283,10,3464.1,Credit Card,Delivered
+10029,1783,2023-02-24,Headphones,Electronics,West,4,829,0,3316.0,Debit Card,Pending
+10030,1143,2023-05-15,Jeans,Clothing,North,5,997,10,4486.5,UPI,Delivered
+10031,1579,2023-12-25,Tablet,Electronics,North,5,360,15,1530.0,Cash,Pending
+10032,1578,2023-08-27,Shoes,Clothing,West,3,1478,0,4434.0,Debit Card,Delivered
+10033,1234,2023-05-28,Shirt,Clothing,North,4,466,15,1584.3999999999999,Cash,Delivered
+10034,1575,2023-12-21,Shoes,Clothing,North,2,794,15,1349.8,Cash,Pending
+10035,1172,2023-09-08,Headphones,Electronics,East,2,942,0,1884.0,UPI,Delivered
+10036,1760,2023-11-26,Phone,Electronics,East,3,1172,10,3164.4,Credit Card,Shipped
+10037,1204,2023-04-21,Shirt,Clothing,South,4,350,5,1330.0,UPI,Shipped
+10038,1252,2023-05-28,Watch,Accessories,North,2,624,10,1123.2,Credit Card,Shipped
+10039,1037,2023-03-09,Phone,Electronics,South,1,532,0,532.0,Debit Card,Shipped
+10040,1023,2023-08-16,Headphones,Electronics,North,2,310,10,558.0,Debit Card,Pending
+10041,1581,2023-09-07,Headphones,Electronics,East,2,719,10,1294.2,Credit Card,Shipped
+10042,1755,2023-01-11,Laptop,Electronics,South,3,291,15,742.05,Credit Card,Shipped
+10043,1670,2023-06-15,Jeans,Clothing,West,5,1496,10,6732.0,Debit Card,Shipped
+10044,1642,2023-04-13,Watch,Accessories,North,1,411,10,369.90000000000003,Credit Card,Shipped
+10045,1956,2023-11-27,Phone,Electronics,West,1,1245,0,1245.0,Debit Card,Delivered
+10046,1228,2023-04-19,Shoes,Clothing,West,3,402,5,1145.7,Cash,Shipped
+10047,1062,2023-05-15,Headphones,Electronics,East,2,164,0,328.0,Debit Card,Delivered
+10048,1834,2023-08-02,Phone,Electronics,West,3,1176,10,3175.2000000000003,Credit Card,Shipped
+10049,1342,2023-11-01,Shirt,Clothing,South,3,774,15,1973.7,UPI,Shipped
+10050,1915,2023-10-29,Watch,Accessories,East,2,1387,5,2635.2999999999997,Debit Card,Delivered
+10051,1985,2023-08-02,Laptop,Electronics,East,3,477,5,1359.45,UPI,Delivered
+10052,1919,2023-06-08,Shoes,Clothing,East,3,577,15,1471.35,Credit Card,Delivered
+10053,1804,2023-07-25,Tablet,Electronics,West,1,726,5,689.6999999999999,Credit Card,Pending
+10054,1477,2023-08-30,Laptop,Electronics,North,3,285,10,769.5,Credit Card,Shipped
+10055,1404,2023-03-07,Tablet,Electronics,East,4,923,10,3322.8,UPI,Shipped
+10056,1611,2023-06-23,Laptop,Electronics,West,1,860,5,817.0,Credit Card,Pending
+10057,1772,2023-02-08,Shoes,Clothing,South,5,602,10,2709.0,UPI,Pending
+10058,1697,2023-07-23,Laptop,Electronics,South,5,722,0,3610.0,Credit Card,Shipped
+10059,1606,2023-11-04,Watch,Accessories,North,4,315,10,1134.0,Debit Card,Pending
+10060,1548,2023-03-24,Shoes,Clothing,South,2,812,15,1380.3999999999999,UPI,Delivered
+10061,1833,2023-08-22,Tablet,Electronics,North,2,575,10,1035.0,Debit Card,Pending
+10062,1046,2023-02-22,Phone,Electronics,South,5,1250,10,5625.0,UPI,Delivered
+10063,1832,2023-05-09,Phone,Electronics,South,5,405,5,1923.75,Debit Card,Delivered
+10064,1091,2023-05-06,Shoes,Clothing,North,1,437,5,415.15,Cash,Delivered
+10065,1828,2023-01-14,Jeans,Clothing,South,1,501,15,425.84999999999997,UPI,Shipped
+10066,1644,2023-03-26,Shoes,Clothing,South,4,624,0,2496.0,UPI,Shipped
+10067,1158,2023-09-18,Shoes,Clothing,East,1,1039,10,935.1,Cash,Delivered
+10068,1259,2023-04-14,Headphones,Electronics,North,2,1129,0,2258.0,Cash,Delivered
+10069,1586,2023-02-07,Phone,Electronics,East,4,1312,10,4723.2,Debit Card,Shipped
+10070,1259,2023-06-13,Laptop,Electronics,South,4,1494,15,5079.599999999999,Cash,Shipped
+10071,1864,2023-07-23,Watch,Accessories,South,3,914,10,2467.8,Debit Card,Shipped
+10072,1664,2023-04-18,Jeans,Clothing,East,4,792,5,3009.6,Credit Card,Delivered
+10073,1696,2023-04-18,Shirt,Clothing,North,2,393,15,668.1,Credit Card,Pending
+10074,1551,2023-11-19,Watch,Accessories,South,5,427,0,2135.0,Debit Card,Shipped
+10075,1868,2023-03-10,Laptop,Electronics,South,2,493,10,887.4,Cash,Pending
+10076,1453,2023-07-27,Tablet,Electronics,North,3,1144,0,3432.0,Cash,Shipped
+10077,1348,2023-03-11,Headphones,Electronics,East,3,328,0,984.0,Debit Card,Delivered
+10078,1088,2023-07-12,Headphones,Electronics,North,2,1287,15,2187.9,UPI,Pending
+10079,1439,2023-11-08,Jeans,Clothing,North,4,147,10,529.2,UPI,Delivered
+10080,1329,2023-09-18,Shoes,Clothing,East,2,602,0,1204.0,Debit Card,Delivered
+10081,1798,2023-06-12,Watch,Accessories,North,1,426,10,383.40000000000003,Debit Card,Pending
+10082,1402,2023-09-25,Jeans,Clothing,South,1,600,10,540.0,UPI,Delivered
+10083,1847,2023-04-17,Jeans,Clothing,South,3,1316,0,3948.0,Cash,Delivered
+10084,1623,2023-10-05,Watch,Accessories,East,4,1434,15,4875.599999999999,UPI,Delivered
+10085,1402,2023-12-29,Headphones,Electronics,North,3,1483,0,4449.0,Cash,Shipped
+10086,1300,2023-03-14,Phone,Electronics,West,2,442,10,795.6,Debit Card,Delivered
+10087,1909,2023-03-04,Shirt,Clothing,East,4,759,10,2732.4,UPI,Pending
+10088,1563,2023-03-26,Tablet,Electronics,South,4,1488,10,5356.8,UPI,Pending
+10089,1715,2023-06-21,Headphones,Electronics,West,2,1189,0,2378.0,UPI,Delivered
+10090,1153,2023-03-31,Shirt,Clothing,East,5,698,0,3490.0,Credit Card,Pending
+10091,1426,2023-06-15,Watch,Accessories,South,5,186,10,837.0,UPI,Shipped
+10092,1590,2023-04-26,Laptop,Electronics,North,4,117,10,421.2,Cash,Shipped
+10093,1080,2023-03-07,Tablet,Electronics,East,2,55,10,99.0,UPI,Shipped
+10094,1946,2023-04-07,Jeans,Clothing,South,5,137,5,650.75,Cash,Pending
+10095,1137,2023-02-05,Shirt,Clothing,South,1,628,15,533.8,Debit Card,Delivered
+10096,1978,2023-07-16,Laptop,Electronics,East,1,1293,10,1163.7,Debit Card,Delivered
+10097,1209,2023-11-05,Shoes,Clothing,South,2,1176,5,2234.4,Debit Card,Shipped
+10098,1469,2023-01-22,Headphones,Electronics,West,4,553,10,1990.8,UPI,Pending
+10099,1432,2023-04-03,Shoes,Clothing,East,4,977,15,3321.7999999999997,UPI,Delivered
+10100,1031,2023-12-28,Tablet,Electronics,East,1,1470,5,1396.5,Debit Card,Delivered
+10101,1276,2023-01-24,Laptop,Electronics,South,4,1200,10,4320.0,Cash,Pending
+10102,1017,2023-12-09,Laptop,Electronics,East,4,1247,10,4489.2,Debit Card,Delivered
+10103,1661,2023-04-21,Phone,Electronics,South,4,956,15,3250.4,Cash,Pending
+10104,1847,2023-10-03,Headphones,Electronics,South,1,695,5,660.25,Credit Card,Shipped
+10105,1735,2023-05-26,Jeans,Clothing,South,4,245,0,980.0,Credit Card,Delivered
+10106,1768,2023-10-21,Tablet,Electronics,East,4,225,10,810.0,Credit Card,Pending
+10107,1293,2023-09-13,Headphones,Electronics,West,2,137,0,274.0,Debit Card,Shipped
+10108,1485,2023-01-13,Tablet,Electronics,East,4,1327,10,4777.2,Credit Card,Pending
+10109,1473,2023-12-24,Phone,Electronics,West,3,1089,10,2940.3,Cash,Pending
+10110,1852,2023-05-26,Tablet,Electronics,North,2,872,15,1482.3999999999999,UPI,Shipped
+10111,1579,2023-07-22,Phone,Electronics,South,5,1422,0,7110.0,Cash,Shipped
+10112,1298,2023-06-16,Watch,Accessories,South,3,827,0,2481.0,UPI,Pending
+10113,1448,2023-06-15,Headphones,Electronics,South,5,1131,15,4806.75,Debit Card,Delivered
+10114,1444,2023-08-16,Laptop,Electronics,West,5,593,5,2816.75,Debit Card,Shipped
+10115,1389,2023-03-31,Phone,Electronics,East,4,1454,0,5816.0,UPI,Pending
+10116,1464,2023-07-15,Shoes,Clothing,East,4,77,0,308.0,Cash,Delivered
+10117,1979,2023-08-19,Jeans,Clothing,East,1,1141,15,969.85,Credit Card,Delivered
+10118,1358,2023-10-18,Shoes,Clothing,South,4,1103,10,3970.8,UPI,Delivered
+10119,1385,2023-04-05,Laptop,Electronics,West,4,762,5,2895.6,Cash,Delivered
+10120,1736,2023-09-30,Jeans,Clothing,West,2,1381,10,2485.8,Debit Card,Delivered
+10121,1710,2023-12-18,Jeans,Clothing,West,4,1429,10,5144.400000000001,Debit Card,Pending
+10122,1436,2023-11-09,Shirt,Clothing,South,4,748,0,2992.0,Cash,Shipped
+10123,1039,2023-05-14,Headphones,Electronics,West,2,999,15,1698.3,UPI,Pending
+10124,1610,2023-03-16,Shirt,Clothing,West,4,1205,0,4820.0,Debit Card,Shipped
+10125,1146,2023-02-15,Laptop,Electronics,West,5,804,5,3819.0,Cash,Delivered
+10126,1990,2023-12-28,Laptop,Electronics,South,4,1484,15,5045.599999999999,Credit Card,Delivered
+10127,1196,2023-12-10,Jeans,Clothing,South,1,383,5,363.84999999999997,UPI,Delivered
+10128,1075,2023-04-21,Headphones,Electronics,South,3,486,10,1312.2,Debit Card,Delivered
+10129,1153,2023-02-10,Shirt,Clothing,West,4,824,5,3131.2,Cash,Pending
+10130,1194,2023-01-10,Laptop,Electronics,East,2,1402,0,2804.0,Debit Card,Pending
+10131,1464,2023-01-01,Tablet,Electronics,North,5,1422,10,6399.0,UPI,Delivered
+10132,1473,2023-07-24,Shoes,Clothing,North,4,1428,10,5140.8,Cash,Delivered
+10133,1289,2023-12-25,Tablet,Electronics,West,3,1025,10,2767.5,Debit Card,Pending
+10134,1316,2023-12-23,Phone,Electronics,South,4,1096,5,4164.8,Cash,Shipped
+10135,1462,2023-03-17,Laptop,Electronics,East,2,1093,10,1967.4,Cash,Shipped
+10136,1002,2023-10-26,Laptop,Electronics,East,4,1183,10,4258.8,Credit Card,Pending
+10137,1477,2023-12-03,Tablet,Electronics,West,1,743,15,631.55,Cash,Shipped
+10138,1987,2023-11-24,Watch,Accessories,North,5,676,10,3042.0,Credit Card,Shipped
+10139,1913,2023-09-05,Shirt,Clothing,East,3,500,0,1500.0,UPI,Pending
+10140,1147,2023-09-26,Shoes,Clothing,West,3,981,15,2501.5499999999997,Debit Card,Delivered
+10141,1356,2023-08-29,Shirt,Clothing,South,2,1490,0,2980.0,Credit Card,Shipped
+10142,1202,2023-06-21,Tablet,Electronics,North,3,200,15,510.0,UPI,Pending
+10143,1172,2023-02-16,Headphones,Electronics,South,4,806,5,3062.7999999999997,UPI,Delivered
+10144,1899,2023-07-28,Shirt,Clothing,West,2,1434,0,2868.0,Credit Card,Shipped
+10145,1481,2023-11-08,Headphones,Electronics,East,4,331,5,1257.8,Credit Card,Pending
+10146,1609,2023-08-29,Shirt,Clothing,South,5,1062,15,4513.5,UPI,Shipped
+10147,1334,2023-10-16,Watch,Accessories,West,2,612,0,1224.0,Debit Card,Delivered
+10148,1247,2023-12-26,Laptop,Electronics,West,3,1088,0,3264.0,Credit Card,Shipped
+10149,1766,2023-09-13,Shoes,Clothing,South,2,1093,0,2186.0,Cash,Pending
+10150,1966,2023-07-10,Phone,Electronics,South,4,1040,10,3744.0,UPI,Pending
+10151,1459,2023-06-23,Watch,Accessories,North,3,738,15,1881.8999999999999,Cash,Pending
+10152,1043,2023-03-13,Shoes,Clothing,East,4,135,0,540.0,UPI,Shipped
+10153,1150,2023-08-15,Shoes,Clothing,North,2,435,10,783.0,Credit Card,Pending
+10154,1248,2023-07-29,Shoes,Clothing,East,5,1046,15,4445.5,UPI,Pending
+10155,1334,2023-10-08,Watch,Accessories,West,2,1347,15,2289.9,Credit Card,Pending
+10156,1775,2023-10-29,Watch,Accessories,West,5,76,10,342.0,Cash,Shipped
+10157,1673,2023-12-02,Tablet,Electronics,East,5,731,0,3655.0,Cash,Shipped
+10158,1962,2023-08-14,Watch,Accessories,South,3,657,10,1773.9,Credit Card,Delivered
+10159,1278,2023-01-24,Tablet,Electronics,North,4,1075,15,3655.0,UPI,Delivered
+10160,1502,2023-04-30,Phone,Electronics,South,2,877,10,1578.6000000000001,Debit Card,Delivered
+10161,1724,2023-05-02,Watch,Accessories,South,2,1498,0,2996.0,Credit Card,Delivered
+10162,1302,2023-11-06,Shoes,Clothing,North,2,578,15,982.6,Cash,Pending
+10163,1310,2023-05-24,Shirt,Clothing,North,4,848,0,3392.0,UPI,Delivered
+10164,1568,2023-05-04,Watch,Accessories,North,3,80,15,204.0,Credit Card,Delivered
+10165,1225,2023-01-06,Tablet,Electronics,North,1,172,15,146.2,Debit Card,Shipped
+10166,1533,2023-03-21,Shirt,Clothing,South,5,235,10,1057.5,Cash,Shipped
+10167,1989,2023-03-10,Headphones,Electronics,North,3,1359,10,3669.3,Credit Card,Pending
+10168,1385,2023-09-15,Headphones,Electronics,West,4,886,10,3189.6,Cash,Pending
+10169,1680,2023-02-25,Shoes,Clothing,East,3,1324,0,3972.0,Credit Card,Shipped
+10170,1765,2023-04-23,Laptop,Electronics,West,2,1130,15,1921.0,Cash,Shipped
+10171,1336,2023-01-05,Shirt,Clothing,West,5,314,0,1570.0,Credit Card,Shipped
+10172,1190,2023-01-31,Phone,Electronics,North,3,1351,10,3647.7000000000003,Debit Card,Pending
+10173,1527,2023-03-13,Shoes,Clothing,South,2,251,15,426.7,Cash,Pending
+10174,1409,2023-03-27,Phone,Electronics,South,2,860,0,1720.0,Credit Card,Delivered
+10175,1263,2023-08-15,Laptop,Electronics,West,3,460,5,1311.0,UPI,Shipped
+10176,1648,2023-10-25,Shoes,Clothing,East,3,534,10,1441.8,Cash,Pending
+10177,1608,2023-05-17,Tablet,Electronics,West,4,524,15,1781.6,Cash,Pending
+10178,1510,2023-04-19,Headphones,Electronics,North,4,1376,15,4678.4,Debit Card,Pending
+10179,1124,2023-01-08,Jeans,Clothing,South,3,1045,0,3135.0,Debit Card,Delivered
+10180,1861,2023-08-20,Watch,Accessories,South,4,955,5,3629.0,Debit Card,Delivered
+10181,1832,2023-05-30,Jeans,Clothing,North,5,1258,15,5346.5,Credit Card,Pending
+10182,1407,2023-04-04,Laptop,Electronics,West,4,985,0,3940.0,UPI,Delivered
+10183,1090,2023-12-04,Jeans,Clothing,North,2,1355,10,2439.0,Credit Card,Delivered
+10184,1319,2023-03-26,Shoes,Clothing,East,1,1462,5,1388.8999999999999,Credit Card,Pending
+10185,1431,2023-06-05,Watch,Accessories,West,2,607,5,1153.3,Credit Card,Pending
+10186,1613,2023-12-03,Jeans,Clothing,East,2,738,5,1402.2,UPI,Pending
+10187,1768,2023-12-26,Tablet,Electronics,East,3,1121,10,3026.7000000000003,Debit Card,Delivered
+10188,1905,2023-11-16,Laptop,Electronics,West,1,1303,10,1172.7,Debit Card,Delivered
+10189,1674,2023-07-31,Shirt,Clothing,West,5,1256,15,5338.0,Cash,Pending
+10190,1983,2023-03-11,Shoes,Clothing,East,3,249,15,634.9499999999999,Credit Card,Pending
+10191,1608,2023-07-06,Shirt,Clothing,South,5,86,5,408.5,Cash,Pending
+10192,1878,2023-06-24,Shirt,Clothing,North,1,1116,15,948.6,Debit Card,Delivered
+10193,1795,2023-10-22,Shirt,Clothing,West,1,789,15,670.65,Debit Card,Pending
+10194,1656,2023-09-14,Shirt,Clothing,North,3,1472,15,3753.6,Debit Card,Delivered
+10195,1743,2023-11-19,Tablet,Electronics,North,2,754,10,1357.2,Debit Card,Shipped
+10196,1751,2023-01-01,Jeans,Clothing,East,3,545,0,1635.0,UPI,Delivered
+10197,1092,2023-05-18,Tablet,Electronics,West,3,1068,15,2723.4,Credit Card,Shipped
+10198,1463,2023-04-14,Shoes,Clothing,North,3,803,0,2409.0,Cash,Shipped
+10199,1450,2023-03-13,Shirt,Clothing,East,5,1374,0,6870.0,UPI,Pending
+10200,1182,2023-04-08,Jeans,Clothing,North,1,434,15,368.9,Credit Card,Pending
+10201,1686,2023-11-26,Shirt,Clothing,North,4,512,5,1945.6,Credit Card,Delivered
+10202,1772,2023-06-06,Shoes,Clothing,North,3,219,0,657.0,UPI,Delivered
+10203,1785,2023-11-08,Phone,Electronics,East,5,809,5,3842.75,Debit Card,Delivered
+10204,1571,2023-06-02,Laptop,Electronics,North,4,644,15,2189.6,UPI,Delivered
+10205,1082,2023-10-21,Tablet,Electronics,East,5,203,0,1015.0,Debit Card,Pending
+10206,1702,2023-01-15,Tablet,Electronics,South,4,714,15,2427.6,Debit Card,Shipped
+10207,1555,2023-09-18,Tablet,Electronics,South,3,1168,0,3504.0,Credit Card,Shipped
+10208,1673,2023-11-17,Laptop,Electronics,West,5,1446,5,6868.5,Credit Card,Pending
+10209,1338,2023-12-02,Headphones,Electronics,South,2,165,10,297.0,Cash,Pending
+10210,1747,2023-01-13,Watch,Accessories,North,2,373,10,671.4,Debit Card,Pending
+10211,1471,2023-10-22,Phone,Electronics,East,2,1363,0,2726.0,UPI,Delivered
+10212,1191,2023-08-15,Jeans,Clothing,South,4,482,5,1831.6,Cash,Delivered
+10213,1708,2023-04-27,Jeans,Clothing,East,1,1005,10,904.5,Credit Card,Shipped
+10214,1888,2023-05-18,Watch,Accessories,East,3,1278,0,3834.0,Credit Card,Delivered
+10215,1302,2023-01-12,Watch,Accessories,North,3,1033,10,2789.1,Credit Card,Delivered
+10216,1836,2023-04-28,Jeans,Clothing,East,5,1307,0,6535.0,Cash,Delivered
+10217,1738,2023-07-27,Jeans,Clothing,West,2,1459,15,2480.2999999999997,Credit Card,Delivered
+10218,1090,2023-03-14,Headphones,Electronics,West,1,1373,15,1167.05,Credit Card,Pending
+10219,1825,2023-01-08,Tablet,Electronics,South,2,1428,10,2570.4,Cash,Delivered
+10220,1518,2023-01-28,Shoes,Clothing,East,2,256,15,435.2,UPI,Pending
+10221,1166,2023-08-27,Shoes,Clothing,West,1,993,15,844.05,Credit Card,Pending
+10222,1740,2023-10-09,Watch,Accessories,North,5,819,15,3480.75,Credit Card,Delivered
+10223,1186,2023-12-29,Jeans,Clothing,North,3,1430,10,3861.0,Credit Card,Delivered
+10224,1891,2023-04-02,Shirt,Clothing,West,4,1464,15,4977.599999999999,Credit Card,Shipped
+10225,1895,2023-10-25,Shoes,Clothing,South,4,166,5,630.8,Debit Card,Delivered
+10226,1519,2023-04-20,Tablet,Electronics,South,4,355,5,1349.0,Credit Card,Pending
+10227,1720,2023-11-03,Laptop,Electronics,South,2,793,10,1427.4,UPI,Delivered
+10228,1470,2023-01-09,Phone,Electronics,North,1,282,0,282.0,Debit Card,Shipped
+10229,1104,2023-06-22,Tablet,Electronics,East,5,1365,0,6825.0,Debit Card,Delivered
+10230,1196,2023-11-28,Laptop,Electronics,East,1,1222,10,1099.8,Credit Card,Shipped
+10231,1245,2023-04-20,Shoes,Clothing,South,1,1079,10,971.1,Cash,Pending
+10232,1434,2023-03-17,Headphones,Electronics,West,2,63,5,119.69999999999999,Debit Card,Shipped
+10233,1556,2023-06-28,Laptop,Electronics,North,1,871,5,827.4499999999999,UPI,Pending
+10234,1595,2023-04-06,Jeans,Clothing,North,5,1036,5,4921.0,Cash,Delivered
+10235,1018,2023-02-05,Laptop,Electronics,South,4,996,0,3984.0,Credit Card,Shipped
+10236,1141,2023-06-04,Watch,Accessories,West,1,1392,0,1392.0,Credit Card,Shipped
+10237,1590,2023-04-05,Shirt,Clothing,East,3,149,0,447.0,Debit Card,Shipped
+10238,1289,2023-09-11,Shoes,Clothing,South,3,974,10,2629.8,Debit Card,Delivered
+10239,1372,2023-09-16,Shoes,Clothing,East,5,1062,10,4779.0,Credit Card,Shipped
+10240,1061,2023-06-02,Shoes,Clothing,South,3,448,10,1209.6000000000001,Cash,Shipped
+10241,1342,2023-05-30,Shoes,Clothing,East,4,500,15,1700.0,Credit Card,Pending
+10242,1943,2023-10-22,Tablet,Electronics,West,5,549,5,2607.75,Debit Card,Pending
+10243,1952,2023-06-19,Headphones,Electronics,East,3,1446,15,3687.2999999999997,UPI,Shipped
+10244,1419,2023-09-08,Headphones,Electronics,West,1,1109,5,1053.55,Cash,Shipped
+10245,1043,2023-09-15,Headphones,Electronics,South,5,1135,0,5675.0,Debit Card,Shipped
+10246,1247,2023-02-23,Headphones,Electronics,North,2,1127,10,2028.6000000000001,UPI,Pending
+10247,1621,2023-12-16,Shirt,Clothing,East,2,856,15,1455.2,Cash,Delivered
+10248,1571,2023-08-18,Shirt,Clothing,West,3,530,15,1351.5,Debit Card,Delivered
+10249,1961,2023-04-08,Watch,Accessories,West,4,280,5,1064.0,UPI,Shipped
+10250,1886,2023-02-20,Phone,Electronics,East,2,350,15,595.0,Credit Card,Shipped
+10251,1736,2023-01-12,Tablet,Electronics,South,4,1368,5,5198.4,Debit Card,Delivered
+10252,1271,2023-10-24,Headphones,Electronics,East,2,676,0,1352.0,Debit Card,Pending
+10253,1246,2023-09-28,Shoes,Clothing,North,5,591,0,2955.0,Debit Card,Pending
+10254,1050,2023-04-20,Headphones,Electronics,North,5,599,10,2695.5,Cash,Delivered
+10255,1333,2023-05-10,Shoes,Clothing,South,4,1178,5,4476.4,Credit Card,Delivered
+10256,1005,2023-07-07,Headphones,Electronics,North,5,341,15,1449.25,Credit Card,Delivered
+10257,1950,2023-02-20,Phone,Electronics,East,5,373,0,1865.0,Debit Card,Pending
+10258,1239,2023-09-06,Laptop,Electronics,South,2,90,15,153.0,Cash,Shipped
+10259,1140,2023-06-09,Headphones,Electronics,East,3,723,10,1952.1000000000001,UPI,Shipped
+10260,1755,2023-08-06,Watch,Accessories,South,4,805,5,3059.0,UPI,Shipped
+10261,1397,2023-05-03,Watch,Accessories,East,2,1294,5,2458.6,Cash,Pending
+10262,1092,2023-05-01,Shoes,Clothing,West,4,562,15,1910.8,Credit Card,Pending
+10263,1608,2023-09-12,Shoes,Clothing,North,3,956,0,2868.0,Cash,Delivered
+10264,1563,2023-07-28,Watch,Accessories,North,4,1166,15,3964.4,Cash,Shipped
+10265,1310,2023-07-11,Shoes,Clothing,East,4,387,0,1548.0,UPI,Delivered
+10266,1337,2023-03-11,Headphones,Electronics,East,4,527,0,2108.0,Debit Card,Delivered
+10267,1108,2023-05-15,Phone,Electronics,South,1,475,0,475.0,Credit Card,Pending
+10268,1328,2023-03-27,Watch,Accessories,North,2,1497,10,2694.6,Credit Card,Delivered
+10269,1909,2023-08-16,Headphones,Electronics,North,4,658,15,2237.2,Cash,Delivered
+10270,1138,2023-04-05,Phone,Electronics,South,1,792,10,712.8000000000001,Debit Card,Shipped
+10271,1197,2023-11-05,Jeans,Clothing,North,5,341,15,1449.25,UPI,Delivered
+10272,1003,2023-04-03,Watch,Accessories,West,2,1430,10,2574.0,UPI,Pending
+10273,1124,2023-09-15,Jeans,Clothing,East,4,102,10,367.2,Debit Card,Shipped
+10274,1067,2024-01-01,Laptop,Electronics,North,2,1156,0,2312.0,UPI,Delivered
+10275,1436,2023-10-03,Laptop,Electronics,South,4,945,15,3213.0,Cash,Delivered
+10276,1426,2023-06-24,Laptop,Electronics,South,5,694,5,3296.5,Cash,Delivered
+10277,1598,2023-07-29,Laptop,Electronics,North,5,181,10,814.5,Credit Card,Shipped
+10278,1329,2023-01-16,Shoes,Clothing,North,2,477,0,954.0,Credit Card,Pending
+10279,1192,2023-04-06,Tablet,Electronics,South,5,211,5,1002.25,Debit Card,Shipped
+10280,1000,2024-01-01,Shoes,Clothing,West,5,828,0,4140.0,UPI,Delivered
+10281,1074,2023-11-20,Headphones,Electronics,North,4,1113,15,3784.2,UPI,Delivered
+10282,1556,2023-10-28,Shoes,Clothing,North,4,472,15,1604.8,Cash,Shipped
+10283,1573,2023-11-13,Jeans,Clothing,West,1,846,10,761.4,UPI,Shipped
+10284,1531,2023-05-02,Shirt,Clothing,East,2,247,10,444.6,Cash,Pending
+10285,1712,2023-12-30,Phone,Electronics,South,1,1056,10,950.4,Cash,Shipped
+10286,1729,2023-06-04,Shirt,Clothing,North,1,537,10,483.3,Cash,Shipped
+10287,1202,2023-01-06,Phone,Electronics,South,1,385,15,327.25,Cash,Delivered
+10288,1731,2023-11-11,Watch,Accessories,North,4,691,0,2764.0,Cash,Delivered
+10289,1176,2023-01-22,Phone,Electronics,West,1,1286,5,1221.7,Cash,Delivered
+10290,1752,2023-12-16,Jeans,Clothing,South,4,364,10,1310.4,UPI,Shipped
+10291,1468,2023-05-24,Shoes,Clothing,South,4,736,10,2649.6,Debit Card,Shipped
+10292,1500,2023-07-15,Watch,Accessories,West,2,238,15,404.59999999999997,UPI,Shipped
+10293,1926,2023-01-12,Phone,Electronics,West,4,215,5,817.0,Credit Card,Pending
+10294,1993,2023-02-22,Laptop,Electronics,North,5,761,15,3234.25,Cash,Delivered
+10295,1325,2023-09-20,Shoes,Clothing,West,2,522,10,939.6,Cash,Shipped
+10296,1278,2023-01-04,Tablet,Electronics,East,4,562,5,2135.6,Credit Card,Shipped
+10297,1059,2023-06-20,Phone,Electronics,East,4,952,10,3427.2000000000003,Debit Card,Shipped
+10298,1335,2023-02-24,Watch,Accessories,East,2,824,0,1648.0,Credit Card,Shipped
+10299,1868,2023-01-07,Tablet,Electronics,South,3,487,5,1387.95,UPI,Pending
+10300,1869,2023-04-15,Jeans,Clothing,North,5,1257,5,5970.75,Cash,Delivered
+10301,1068,2023-12-26,Tablet,Electronics,North,3,80,10,216.0,Debit Card,Shipped
+10302,1050,2023-11-04,Shoes,Clothing,South,3,1293,15,3297.15,Debit Card,Pending
+10303,1435,2023-09-16,Watch,Accessories,North,5,1495,10,6727.5,Cash,Delivered
+10304,1958,2023-12-03,Jeans,Clothing,West,2,1195,0,2390.0,Debit Card,Pending
+10305,1804,2023-12-07,Shirt,Clothing,East,5,612,15,2601.0,Debit Card,Pending
+10306,1677,2023-09-02,Tablet,Electronics,South,5,405,0,2025.0,Cash,Delivered
+10307,1390,2023-04-12,Watch,Accessories,East,4,336,10,1209.6000000000001,Cash,Shipped
+10308,1603,2023-03-22,Phone,Electronics,North,5,1329,0,6645.0,Debit Card,Delivered
+10309,1270,2023-05-12,Headphones,Electronics,North,2,534,10,961.2,Cash,Shipped
+10310,1763,2023-10-13,Shirt,Clothing,South,4,1398,15,4753.2,Credit Card,Pending
+10311,1535,2023-05-08,Tablet,Electronics,North,3,1299,0,3897.0,Credit Card,Delivered
+10312,1783,2023-06-22,Laptop,Electronics,East,3,115,10,310.5,Credit Card,Pending
+10313,1278,2023-06-19,Shoes,Clothing,North,2,939,10,1690.2,UPI,Pending
+10314,1668,2023-04-06,Laptop,Electronics,North,1,1169,5,1110.55,Credit Card,Pending
+10315,1340,2023-02-19,Headphones,Electronics,North,1,1343,10,1208.7,UPI,Pending
+10316,1706,2023-11-20,Watch,Accessories,West,4,553,10,1990.8,UPI,Shipped
+10317,1049,2023-12-30,Watch,Accessories,West,1,132,15,112.2,Cash,Delivered
+10318,1240,2023-12-15,Shirt,Clothing,South,3,1253,15,3195.15,Debit Card,Shipped
+10319,1876,2023-03-28,Shirt,Clothing,North,3,1015,5,2892.75,Debit Card,Shipped
+10320,1093,2023-05-31,Jeans,Clothing,South,1,501,10,450.90000000000003,Credit Card,Pending
+10321,1134,2023-04-06,Watch,Accessories,South,2,104,0,208.0,UPI,Delivered
+10322,1353,2023-03-26,Shirt,Clothing,West,1,931,15,791.35,Cash,Delivered
+10323,1312,2023-05-03,Laptop,Electronics,South,2,1417,0,2834.0,Credit Card,Pending
+10324,1019,2023-01-15,Jeans,Clothing,East,5,1076,5,5111.0,Cash,Delivered
+10325,1610,2023-01-31,Shoes,Clothing,East,1,1228,10,1105.2,Credit Card,Delivered
+10326,1208,2023-05-12,Shoes,Clothing,East,2,550,10,990.0,Credit Card,Shipped
+10327,1095,2023-11-20,Shirt,Clothing,North,4,738,10,2656.8,UPI,Pending
+10328,1616,2023-06-24,Phone,Electronics,East,3,136,0,408.0,Debit Card,Delivered
+10329,1342,2023-09-23,Shoes,Clothing,West,2,1128,15,1917.6,Credit Card,Delivered
+10330,1921,2023-11-19,Watch,Accessories,East,5,1202,15,5108.5,UPI,Shipped
+10331,1401,2023-02-18,Laptop,Electronics,North,5,155,10,697.5,UPI,Shipped
+10332,1135,2023-10-26,Headphones,Electronics,East,4,315,0,1260.0,UPI,Delivered
+10333,1644,2023-06-08,Shirt,Clothing,South,3,567,15,1445.85,Debit Card,Delivered
+10334,1273,2023-07-27,Laptop,Electronics,East,4,279,15,948.6,Credit Card,Pending
+10335,1457,2023-07-27,Tablet,Electronics,North,4,188,5,714.4,Cash,Shipped
+10336,1113,2023-08-05,Laptop,Electronics,East,5,424,5,2014.0,Cash,Shipped
+10337,1520,2023-06-20,Phone,Electronics,East,1,1272,10,1144.8,UPI,Pending
+10338,1491,2023-11-17,Shirt,Clothing,South,1,1081,10,972.9,Cash,Delivered
+10339,1509,2023-07-28,Jeans,Clothing,East,4,1192,5,4529.599999999999,Debit Card,Pending
+10340,1835,2023-11-29,Shoes,Clothing,East,5,878,5,4170.5,UPI,Pending
+10341,1866,2023-05-09,Shoes,Clothing,East,1,749,0,749.0,Cash,Pending
+10342,1024,2023-06-07,Phone,Electronics,West,3,1330,10,3591.0,Debit Card,Delivered
+10343,1920,2023-05-17,Tablet,Electronics,West,4,410,0,1640.0,Debit Card,Shipped
+10344,1625,2023-08-26,Shirt,Clothing,East,4,1198,5,4552.4,Cash,Shipped
+10345,1650,2023-11-30,Shoes,Clothing,North,4,1399,10,5036.400000000001,UPI,Delivered
+10346,1989,2023-09-02,Laptop,Electronics,South,4,57,15,193.79999999999998,Credit Card,Shipped
+10347,1486,2023-09-11,Shirt,Clothing,East,2,1398,10,2516.4,Cash,Pending
+10348,1537,2023-05-12,Watch,Accessories,South,3,97,0,291.0,Credit Card,Shipped
+10349,1950,2023-12-21,Headphones,Electronics,West,5,1115,5,5296.25,Cash,Delivered
+10350,1688,2023-11-28,Laptop,Electronics,East,5,366,15,1555.5,UPI,Delivered
+10351,1832,2023-11-09,Phone,Electronics,North,5,942,5,4474.5,Debit Card,Delivered
+10352,1757,2023-01-06,Jeans,Clothing,South,4,1441,10,5187.6,Credit Card,Shipped
+10353,1563,2023-10-19,Laptop,Electronics,East,1,695,5,660.25,UPI,Shipped
+10354,1865,2023-02-01,Shoes,Clothing,East,1,1490,10,1341.0,UPI,Delivered
+10355,1038,2023-05-27,Shirt,Clothing,West,4,832,5,3161.6,Credit Card,Shipped
+10356,1096,2023-05-09,Headphones,Electronics,North,5,960,10,4320.0,Debit Card,Delivered
+10357,1627,2023-12-30,Watch,Accessories,North,3,1183,5,3371.5499999999997,Cash,Shipped
+10358,1163,2023-01-16,Jeans,Clothing,East,1,1207,5,1146.6499999999999,Credit Card,Delivered
+10359,1667,2023-12-06,Headphones,Electronics,West,1,961,0,961.0,UPI,Shipped
+10360,1718,2023-07-21,Watch,Accessories,West,1,533,0,533.0,Cash,Shipped
+10361,1536,2023-07-03,Tablet,Electronics,East,2,862,10,1551.6000000000001,Cash,Delivered
+10362,1488,2023-10-13,Phone,Electronics,East,3,325,5,926.25,Cash,Pending
+10363,1781,2023-09-26,Tablet,Electronics,South,1,365,5,346.75,Credit Card,Pending
+10364,1871,2023-11-30,Jeans,Clothing,North,4,112,15,380.8,Credit Card,Shipped
+10365,1507,2023-07-30,Tablet,Electronics,West,1,305,10,274.5,Credit Card,Shipped
+10366,1341,2023-03-29,Jeans,Clothing,West,4,159,0,636.0,Credit Card,Delivered
+10367,1430,2023-03-18,Headphones,Electronics,North,1,57,5,54.15,Debit Card,Shipped
+10368,1640,2023-03-17,Phone,Electronics,West,2,944,15,1604.8,UPI,Pending
+10369,1141,2023-09-05,Headphones,Electronics,North,5,149,15,633.25,UPI,Delivered
+10370,1137,2023-04-07,Shirt,Clothing,South,4,978,10,3520.8,Credit Card,Pending
+10371,1989,2023-02-03,Shirt,Clothing,North,3,333,10,899.1,Credit Card,Pending
+10372,1734,2023-05-19,Shirt,Clothing,East,5,375,10,1687.5,Credit Card,Shipped
+10373,1678,2023-04-10,Watch,Accessories,East,2,1493,10,2687.4,Cash,Pending
+10374,1156,2023-10-29,Phone,Electronics,West,3,533,10,1439.1000000000001,Cash,Delivered
+10375,1133,2023-11-21,Shoes,Clothing,South,5,1470,15,6247.5,Cash,Delivered
+10376,1889,2023-07-25,Jeans,Clothing,North,1,1110,15,943.5,Cash,Pending
+10377,1814,2023-08-03,Tablet,Electronics,East,1,606,0,606.0,Credit Card,Pending
+10378,1309,2023-10-03,Tablet,Electronics,South,4,1232,10,4435.2,Cash,Shipped
+10379,1745,2023-08-24,Watch,Accessories,West,4,451,0,1804.0,Debit Card,Delivered
+10380,1877,2023-01-13,Tablet,Electronics,North,4,325,5,1235.0,Debit Card,Pending
+10381,1937,2023-11-10,Tablet,Electronics,East,2,271,10,487.8,Credit Card,Delivered
+10382,1185,2023-09-12,Laptop,Electronics,East,2,321,15,545.6999999999999,UPI,Pending
+10383,1591,2023-10-02,Watch,Accessories,South,5,437,10,1966.5,Credit Card,Delivered
+10384,1596,2023-09-21,Shoes,Clothing,West,5,368,0,1840.0,Cash,Delivered
+10385,1996,2023-01-22,Shirt,Clothing,East,3,542,5,1544.6999999999998,UPI,Shipped
+10386,1287,2023-01-19,Phone,Electronics,South,4,1493,15,5076.2,Debit Card,Pending
+10387,1256,2023-02-19,Shirt,Clothing,East,1,548,5,520.6,UPI,Delivered
+10388,1492,2023-07-28,Shoes,Clothing,East,5,970,5,4607.5,Debit Card,Shipped
+10389,1062,2023-10-04,Headphones,Electronics,South,5,382,0,1910.0,UPI,Shipped
+10390,1113,2023-05-13,Laptop,Electronics,West,4,506,5,1922.8,Credit Card,Shipped
+10391,1893,2023-03-31,Laptop,Electronics,East,5,252,0,1260.0,UPI,Delivered
+10392,1650,2023-03-21,Laptop,Electronics,West,4,401,0,1604.0,Credit Card,Pending
+10393,1293,2023-12-05,Tablet,Electronics,East,2,1124,10,2023.2,Cash,Delivered
+10394,1378,2023-05-16,Phone,Electronics,South,4,1340,15,4556.0,Debit Card,Pending
+10395,1476,2023-06-01,Phone,Electronics,East,1,1444,15,1227.3999999999999,Cash,Pending
+10396,1280,2023-11-27,Shoes,Clothing,South,5,587,5,2788.25,Credit Card,Delivered
+10397,1153,2023-08-17,Tablet,Electronics,North,5,358,15,1521.5,Debit Card,Delivered
+10398,1318,2023-12-17,Shirt,Clothing,South,2,879,15,1494.3,Cash,Shipped
+10399,1713,2023-11-03,Jeans,Clothing,West,5,580,15,2465.0,Credit Card,Shipped
+10400,1794,2023-05-31,Watch,Accessories,South,2,787,0,1574.0,Debit Card,Pending
+10401,1070,2023-03-29,Phone,Electronics,South,1,1074,5,1020.3,Cash,Delivered
+10402,1468,2023-01-17,Laptop,Electronics,East,5,1047,0,5235.0,UPI,Delivered
+10403,1506,2023-02-16,Headphones,Electronics,East,4,519,15,1764.6,Cash,Delivered
+10404,1594,2023-11-15,Shoes,Clothing,North,5,538,10,2421.0,Cash,Shipped
+10405,1914,2023-02-01,Headphones,Electronics,West,4,1437,15,4885.8,Debit Card,Delivered
+10406,1224,2023-02-09,Tablet,Electronics,West,2,1430,5,2717.0,Debit Card,Shipped
+10407,1004,2023-10-02,Shoes,Clothing,North,4,1291,15,4389.4,UPI,Pending
+10408,1783,2023-01-30,Jeans,Clothing,South,5,706,0,3530.0,Credit Card,Shipped
+10409,1985,2023-02-24,Jeans,Clothing,South,2,249,15,423.3,Credit Card,Delivered
+10410,1360,2023-01-29,Tablet,Electronics,West,5,1064,15,4522.0,Cash,Shipped
+10411,1940,2023-09-13,Shirt,Clothing,West,3,544,15,1387.2,Debit Card,Delivered
+10412,1257,2023-10-05,Tablet,Electronics,East,4,1403,0,5612.0,Debit Card,Pending
+10413,1455,2023-04-10,Laptop,Electronics,East,4,733,5,2785.4,Credit Card,Shipped
+10414,1319,2023-08-28,Tablet,Electronics,West,4,732,5,2781.6,Debit Card,Delivered
+10415,1364,2023-09-22,Watch,Accessories,West,5,1430,15,6077.5,Credit Card,Pending
+10416,1106,2023-01-23,Tablet,Electronics,South,2,1349,10,2428.2000000000003,Debit Card,Pending
+10417,1364,2023-04-13,Shoes,Clothing,East,5,875,5,4156.25,Cash,Shipped
+10418,1963,2023-02-18,Shirt,Clothing,South,3,1201,5,3422.85,UPI,Pending
+10419,1079,2023-02-19,Shirt,Clothing,West,2,1392,15,2366.4,UPI,Shipped
+10420,1185,2023-08-26,Jeans,Clothing,North,2,791,10,1423.8,Credit Card,Pending
+10421,1864,2023-09-25,Tablet,Electronics,East,4,1156,10,4161.6,Credit Card,Delivered
+10422,1621,2023-10-21,Headphones,Electronics,North,1,210,0,210.0,Cash,Delivered
+10423,1338,2023-08-14,Shoes,Clothing,West,3,1176,10,3175.2000000000003,Credit Card,Pending
+10424,1458,2023-06-08,Shirt,Clothing,East,1,715,10,643.5,Cash,Shipped
+10425,1285,2023-01-04,Headphones,Electronics,West,4,1379,10,4964.400000000001,Debit Card,Shipped
+10426,1914,2023-11-11,Laptop,Electronics,South,3,562,15,1433.1,UPI,Delivered
+10427,1944,2023-12-12,Headphones,Electronics,East,1,733,10,659.7,Credit Card,Delivered
+10428,1073,2023-11-12,Jeans,Clothing,West,4,997,10,3589.2000000000003,Credit Card,Shipped
+10429,1170,2023-01-31,Watch,Accessories,South,2,119,0,238.0,Cash,Pending
+10430,1688,2023-10-24,Shirt,Clothing,East,2,1383,15,2351.1,Cash,Shipped
+10431,1145,2023-07-02,Jeans,Clothing,East,5,925,0,4625.0,Cash,Delivered
+10432,1833,2023-09-05,Shoes,Clothing,East,2,404,15,686.8,UPI,Pending
+10433,1692,2023-04-30,Laptop,Electronics,West,3,735,15,1874.25,Debit Card,Delivered
+10434,1343,2023-09-15,Jeans,Clothing,West,5,759,10,3415.5,Credit Card,Shipped
+10435,1978,2023-07-10,Shirt,Clothing,West,2,74,0,148.0,Debit Card,Shipped
+10436,1853,2023-08-06,Watch,Accessories,East,1,1097,15,932.4499999999999,Cash,Pending
+10437,1971,2023-03-12,Tablet,Electronics,West,2,729,10,1312.2,Cash,Delivered
+10438,1970,2023-01-10,Watch,Accessories,West,1,660,15,561.0,Credit Card,Delivered
+10439,1581,2023-09-02,Laptop,Electronics,North,1,514,10,462.6,Cash,Shipped
+10440,1896,2023-09-10,Laptop,Electronics,South,1,72,10,64.8,Debit Card,Pending
+10441,1777,2023-04-30,Watch,Accessories,East,4,290,5,1102.0,Cash,Pending
+10442,1540,2023-08-22,Watch,Accessories,West,5,1003,5,4764.25,Debit Card,Delivered
+10443,1778,2023-09-29,Laptop,Electronics,North,2,506,10,910.8000000000001,Credit Card,Pending
+10444,1059,2023-07-15,Jeans,Clothing,North,4,801,15,2723.4,Cash,Delivered
+10445,1023,2023-11-23,Watch,Accessories,West,4,815,10,2934.0,Cash,Shipped
+10446,1298,2023-01-02,Tablet,Electronics,East,5,988,5,4693.0,Credit Card,Delivered
+10447,1242,2023-08-28,Phone,Electronics,East,3,1244,0,3732.0,Debit Card,Shipped
+10448,1528,2023-11-17,Shirt,Clothing,South,4,964,15,3277.6,UPI,Pending
+10449,1747,2023-11-13,Phone,Electronics,West,5,1349,0,6745.0,Debit Card,Shipped
+10450,1279,2023-12-12,Shirt,Clothing,South,3,235,0,705.0,UPI,Delivered
+10451,1689,2023-07-30,Laptop,Electronics,East,5,775,15,3293.75,Credit Card,Shipped
+10452,1180,2023-01-28,Tablet,Electronics,West,4,1474,0,5896.0,Cash,Pending
+10453,1087,2023-04-06,Phone,Electronics,East,5,1142,0,5710.0,UPI,Pending
+10454,1146,2023-06-21,Phone,Electronics,North,4,601,15,2043.3999999999999,Credit Card,Delivered
+10455,1277,2023-11-03,Shirt,Clothing,East,3,797,10,2151.9,Cash,Pending
+10456,1253,2023-06-13,Jeans,Clothing,East,5,1037,10,4666.5,Cash,Pending
+10457,1120,2023-10-31,Tablet,Electronics,West,3,697,5,1986.4499999999998,UPI,Pending
+10458,1842,2023-02-16,Headphones,Electronics,East,3,328,0,984.0,Credit Card,Shipped
+10459,1794,2023-09-28,Phone,Electronics,North,4,92,0,368.0,UPI,Shipped
+10460,1739,2023-05-12,Tablet,Electronics,South,4,1018,0,4072.0,Debit Card,Pending
+10461,1037,2023-03-03,Headphones,Electronics,West,2,792,15,1346.3999999999999,UPI,Shipped
+10462,1958,2023-02-20,Shirt,Clothing,West,3,1085,10,2929.5,Debit Card,Delivered
+10463,1541,2023-07-18,Shirt,Clothing,East,2,1240,5,2356.0,UPI,Pending
+10464,1325,2023-05-20,Phone,Electronics,North,1,984,0,984.0,Debit Card,Pending
+10465,1972,2023-04-19,Watch,Accessories,East,3,848,5,2416.7999999999997,UPI,Delivered
+10466,1470,2023-07-04,Phone,Electronics,South,5,151,10,679.5,Cash,Delivered
+10467,1993,2023-05-23,Shoes,Clothing,North,2,109,15,185.29999999999998,Cash,Pending
+10468,1548,2023-04-20,Headphones,Electronics,East,4,127,10,457.2,Debit Card,Delivered
+10469,1937,2023-03-12,Headphones,Electronics,North,3,270,5,769.5,Credit Card,Delivered
+10470,1411,2023-01-09,Headphones,Electronics,East,1,421,5,399.95,UPI,Shipped
+10471,1731,2023-09-20,Shirt,Clothing,East,5,1079,10,4855.5,Debit Card,Pending
+10472,1297,2023-03-04,Jeans,Clothing,North,5,931,5,4422.25,UPI,Pending
+10473,1323,2023-10-27,Watch,Accessories,West,2,96,15,163.2,Debit Card,Delivered
+10474,1162,2023-03-12,Shoes,Clothing,East,5,197,5,935.75,UPI,Shipped
+10475,1772,2024-01-01,Watch,Accessories,East,3,163,5,464.54999999999995,UPI,Shipped
+10476,1632,2023-03-24,Laptop,Electronics,East,4,1016,15,3454.4,Credit Card,Delivered
+10477,1428,2023-06-23,Headphones,Electronics,North,5,1374,5,6526.5,UPI,Delivered
+10478,1652,2023-04-23,Headphones,Electronics,East,3,369,0,1107.0,UPI,Shipped
+10479,1496,2023-02-07,Jeans,Clothing,North,2,463,15,787.1,Cash,Shipped
+10480,1456,2023-06-02,Phone,Electronics,South,2,62,10,111.60000000000001,Credit Card,Pending
+10481,1352,2023-09-12,Tablet,Electronics,North,1,1199,15,1019.15,Credit Card,Pending
+10482,1570,2023-08-07,Tablet,Electronics,West,3,488,5,1390.8,Debit Card,Shipped
+10483,1590,2023-04-20,Shoes,Clothing,West,1,913,10,821.7,Credit Card,Shipped
+10484,1639,2023-04-17,Shoes,Clothing,South,2,1249,15,2123.2999999999997,Cash,Delivered
+10485,1743,2023-09-02,Phone,Electronics,North,1,1278,10,1150.2,Debit Card,Pending
+10486,1082,2023-02-16,Phone,Electronics,East,5,1233,0,6165.0,Debit Card,Shipped
+10487,1291,2023-11-03,Tablet,Electronics,West,1,1000,5,950.0,Cash,Shipped
+10488,1131,2023-02-17,Laptop,Electronics,North,2,543,0,1086.0,Credit Card,Shipped
+10489,1305,2023-11-16,Shirt,Clothing,North,1,238,15,202.29999999999998,Credit Card,Shipped
+10490,1197,2023-04-23,Tablet,Electronics,North,5,1348,15,5729.0,Cash,Delivered
+10491,1702,2023-03-22,Watch,Accessories,North,5,617,15,2622.25,Credit Card,Shipped
+10492,1731,2023-05-01,Tablet,Electronics,South,2,1262,5,2397.7999999999997,Credit Card,Pending
+10493,1467,2023-11-19,Laptop,Electronics,South,4,1002,5,3807.6,UPI,Shipped
+10494,1755,2023-08-16,Shoes,Clothing,West,1,402,15,341.7,Cash,Pending
+10495,1333,2023-05-14,Headphones,Electronics,East,3,1039,5,2961.1499999999996,Debit Card,Pending
+10496,1818,2023-04-15,Shirt,Clothing,North,3,391,10,1055.7,Credit Card,Shipped
+10497,1632,2023-03-08,Jeans,Clothing,West,3,999,0,2997.0,Cash,Delivered
+10498,1251,2023-04-30,Shirt,Clothing,South,3,1224,15,3121.2,Cash,Delivered
+10499,1491,2023-04-05,Tablet,Electronics,South,4,118,15,401.2,Cash,Pending
+10500,1360,2023-09-20,Laptop,Electronics,East,5,841,10,3784.5,Cash,Pending
+10501,1387,2023-09-27,Phone,Electronics,West,2,802,0,1604.0,Debit Card,Shipped
+10502,1915,2023-06-23,Phone,Electronics,North,3,1343,0,4029.0,Debit Card,Delivered
+10503,1092,2023-10-10,Shoes,Clothing,South,4,210,0,840.0,Cash,Pending
+10504,1547,2023-01-03,Headphones,Electronics,South,2,1340,0,2680.0,Cash,Pending
+10505,1639,2023-08-05,Phone,Electronics,East,4,1240,0,4960.0,Credit Card,Delivered
+10506,1999,2023-07-26,Jeans,Clothing,East,1,1158,5,1100.1,Cash,Delivered
+10507,1094,2023-07-15,Phone,Electronics,South,5,1415,0,7075.0,Cash,Pending
+10508,1401,2023-12-21,Jeans,Clothing,East,3,366,15,933.3,UPI,Pending
+10509,1427,2023-07-22,Shoes,Clothing,South,2,1040,0,2080.0,Debit Card,Delivered
+10510,1430,2023-12-01,Phone,Electronics,West,4,1243,15,4226.2,Debit Card,Delivered
+10511,1186,2023-11-17,Phone,Electronics,North,3,152,0,456.0,Credit Card,Shipped
+10512,1446,2023-02-28,Shirt,Clothing,North,2,834,0,1668.0,Credit Card,Shipped
+10513,1436,2023-07-20,Shoes,Clothing,South,5,668,15,2839.0,Cash,Pending
+10514,1750,2023-12-10,Laptop,Electronics,East,3,1474,0,4422.0,UPI,Shipped
+10515,1584,2023-11-19,Watch,Accessories,East,3,594,0,1782.0,Cash,Pending
+10516,1862,2023-05-15,Shirt,Clothing,North,3,533,0,1599.0,Cash,Shipped
+10517,1940,2023-04-23,Tablet,Electronics,South,3,466,5,1328.1,UPI,Delivered
+10518,1708,2023-12-18,Laptop,Electronics,West,2,1491,5,2832.9,Debit Card,Pending
+10519,1581,2023-02-21,Shirt,Clothing,South,1,1369,5,1300.55,UPI,Pending
+10520,1124,2023-08-25,Laptop,Electronics,South,4,607,0,2428.0,Debit Card,Pending
+10521,1511,2023-04-16,Headphones,Electronics,South,1,582,15,494.7,Credit Card,Pending
+10522,1311,2023-10-19,Laptop,Electronics,East,5,1185,0,5925.0,Cash,Shipped
+10523,1794,2023-08-30,Jeans,Clothing,South,1,1062,15,902.6999999999999,UPI,Shipped
+10524,1165,2023-10-06,Shirt,Clothing,West,1,678,0,678.0,Debit Card,Shipped
+10525,1405,2023-07-07,Jeans,Clothing,East,4,504,5,1915.1999999999998,Cash,Shipped
+10526,1535,2023-06-28,Watch,Accessories,South,1,214,15,181.9,UPI,Delivered
+10527,1378,2023-09-06,Jeans,Clothing,West,4,1159,10,4172.400000000001,Debit Card,Delivered
+10528,1340,2023-10-15,Shoes,Clothing,East,1,1095,15,930.75,UPI,Pending
+10529,1213,2023-04-30,Laptop,Electronics,West,2,975,5,1852.5,Credit Card,Pending
+10530,1878,2023-09-12,Headphones,Electronics,North,1,725,15,616.25,Cash,Delivered
+10531,1519,2023-03-27,Headphones,Electronics,West,2,666,5,1265.3999999999999,Debit Card,Delivered
+10532,1385,2023-07-05,Tablet,Electronics,North,3,1010,15,2575.5,Cash,Pending
+10533,1709,2023-05-01,Headphones,Electronics,East,1,1173,10,1055.7,Cash,Pending
+10534,1218,2023-07-22,Tablet,Electronics,South,1,1364,15,1159.3999999999999,Credit Card,Delivered
+10535,1725,2023-04-06,Tablet,Electronics,East,1,844,0,844.0,Debit Card,Pending
+10536,1898,2023-06-25,Shirt,Clothing,South,4,159,0,636.0,Cash,Pending
+10537,1981,2023-02-06,Jeans,Clothing,East,4,979,10,3524.4,UPI,Pending
+10538,1674,2023-09-21,Jeans,Clothing,South,5,520,15,2210.0,UPI,Delivered
+10539,1548,2023-07-23,Tablet,Electronics,South,4,693,15,2356.2,UPI,Pending
+10540,1510,2023-11-05,Shoes,Clothing,South,5,322,5,1529.5,Cash,Shipped
+10541,1984,2023-05-30,Shirt,Clothing,South,3,1419,15,3618.45,UPI,Delivered
+10542,1913,2023-10-03,Jeans,Clothing,East,4,1054,0,4216.0,Cash,Shipped
+10543,1991,2023-12-12,Shirt,Clothing,North,4,1122,0,4488.0,Debit Card,Delivered
+10544,1639,2023-07-30,Headphones,Electronics,South,1,1074,5,1020.3,Debit Card,Shipped
+10545,1821,2023-12-07,Watch,Accessories,West,3,649,5,1849.6499999999999,Debit Card,Shipped
+10546,1663,2023-10-02,Headphones,Electronics,South,1,1193,10,1073.7,Cash,Shipped
+10547,1509,2023-04-24,Shirt,Clothing,East,5,126,5,598.5,Credit Card,Shipped
+10548,1762,2023-05-07,Shirt,Clothing,North,2,819,5,1556.1,Debit Card,Pending
+10549,1080,2023-07-25,Phone,Electronics,North,1,837,15,711.4499999999999,Cash,Delivered
+10550,1518,2023-06-06,Jeans,Clothing,North,4,745,10,2682.0,UPI,Shipped
+10551,1952,2023-09-18,Headphones,Electronics,East,5,81,15,344.25,Cash,Pending
+10552,1654,2023-10-04,Jeans,Clothing,North,4,161,10,579.6,Credit Card,Delivered
+10553,1639,2023-11-28,Shirt,Clothing,East,5,927,5,4403.25,Credit Card,Delivered
+10554,1932,2023-04-07,Jeans,Clothing,South,4,590,15,2006.0,Debit Card,Delivered
+10555,1806,2023-10-31,Phone,Electronics,South,2,1446,5,2747.4,Debit Card,Delivered
+10556,1040,2023-01-11,Shirt,Clothing,North,2,599,0,1198.0,UPI,Pending
+10557,1527,2023-12-08,Jeans,Clothing,East,5,230,15,977.5,Cash,Shipped
+10558,1001,2023-12-11,Laptop,Electronics,South,1,121,15,102.85,Cash,Delivered
+10559,1080,2023-12-02,Watch,Accessories,North,1,436,10,392.40000000000003,Debit Card,Pending
+10560,1373,2023-01-06,Watch,Accessories,North,4,1061,10,3819.6,Debit Card,Pending
+10561,1916,2023-06-26,Watch,Accessories,East,3,963,15,2455.65,Cash,Shipped
+10562,1207,2023-06-10,Headphones,Electronics,North,3,235,15,599.25,Debit Card,Shipped
+10563,1954,2023-05-20,Headphones,Electronics,West,3,1332,10,3596.4,UPI,Delivered
+10564,1944,2023-02-07,Jeans,Clothing,South,2,374,5,710.6,Credit Card,Delivered
+10565,1775,2023-04-23,Watch,Accessories,North,2,109,5,207.1,Cash,Pending
+10566,1741,2023-07-09,Shoes,Clothing,North,1,728,5,691.6,UPI,Shipped
+10567,1013,2024-01-01,Phone,Electronics,East,5,900,15,3825.0,Debit Card,Pending
+10568,1591,2023-09-28,Laptop,Electronics,South,4,219,15,744.6,Cash,Delivered
+10569,1281,2023-01-14,Shoes,Clothing,East,3,887,0,2661.0,UPI,Pending
+10570,1279,2023-02-24,Laptop,Electronics,South,4,1248,15,4243.2,Credit Card,Shipped
+10571,1136,2023-05-11,Laptop,Electronics,North,1,842,0,842.0,Credit Card,Pending
+10572,1414,2023-11-19,Tablet,Electronics,East,5,1278,15,5431.5,Credit Card,Shipped
+10573,1076,2023-04-10,Headphones,Electronics,North,3,280,0,840.0,Cash,Pending
+10574,1138,2023-09-25,Phone,Electronics,West,5,731,15,3106.75,UPI,Delivered
+10575,1280,2023-12-05,Jeans,Clothing,North,3,472,10,1274.4,Credit Card,Delivered
+10576,1949,2023-02-11,Watch,Accessories,South,3,531,15,1354.05,Debit Card,Shipped
+10577,1567,2023-04-01,Laptop,Electronics,East,3,903,15,2302.65,UPI,Shipped
+10578,1097,2023-08-10,Laptop,Electronics,East,3,208,5,592.8,Credit Card,Pending
+10579,1317,2023-12-02,Laptop,Electronics,North,5,1205,10,5422.5,Cash,Shipped
+10580,1418,2023-11-12,Phone,Electronics,East,2,320,0,640.0,UPI,Shipped
+10581,1320,2023-07-23,Laptop,Electronics,North,2,97,5,184.29999999999998,Cash,Pending
+10582,1005,2023-11-15,Phone,Electronics,East,5,819,15,3480.75,Credit Card,Shipped
+10583,1431,2023-09-21,Shoes,Clothing,West,1,1159,10,1043.1000000000001,Credit Card,Shipped
+10584,1551,2023-07-30,Jeans,Clothing,East,4,777,0,3108.0,Debit Card,Pending
+10585,1516,2023-07-04,Laptop,Electronics,East,5,1317,10,5926.5,Debit Card,Shipped
+10586,1019,2023-03-10,Watch,Accessories,West,5,1098,10,4941.0,Debit Card,Shipped
+10587,1077,2023-04-29,Jeans,Clothing,South,4,620,10,2232.0,Cash,Pending
+10588,1089,2023-02-26,Jeans,Clothing,West,3,553,10,1493.1000000000001,Cash,Delivered
+10589,1080,2023-05-09,Headphones,Electronics,West,5,547,15,2324.75,Credit Card,Delivered
+10590,1624,2023-03-27,Watch,Accessories,South,5,484,10,2178.0,Debit Card,Shipped
+10591,1691,2023-12-18,Tablet,Electronics,South,5,958,15,4071.5,Debit Card,Shipped
+10592,1334,2023-01-19,Laptop,Electronics,East,1,734,0,734.0,Debit Card,Pending
+10593,1957,2023-07-07,Tablet,Electronics,East,3,270,10,729.0,Debit Card,Shipped
+10594,1851,2023-09-06,Watch,Accessories,East,3,632,5,1801.1999999999998,Cash,Delivered
+10595,1236,2023-05-20,Watch,Accessories,South,2,1260,0,2520.0,UPI,Shipped
+10596,1806,2023-03-07,Shirt,Clothing,East,2,858,10,1544.4,UPI,Shipped
+10597,1013,2023-06-25,Shirt,Clothing,West,3,541,15,1379.55,UPI,Delivered
+10598,1024,2023-03-30,Headphones,Electronics,North,1,243,0,243.0,Cash,Delivered
+10599,1898,2023-12-02,Jeans,Clothing,East,3,509,15,1297.95,Cash,Shipped
+10600,1240,2023-04-23,Tablet,Electronics,West,1,891,10,801.9,Cash,Delivered
+10601,1183,2023-04-22,Headphones,Electronics,South,4,295,10,1062.0,Credit Card,Delivered
+10602,1419,2023-11-16,Shoes,Clothing,South,3,382,10,1031.4,UPI,Pending
+10603,1634,2023-06-29,Phone,Electronics,East,5,949,15,4033.25,UPI,Shipped
+10604,1728,2023-04-07,Jeans,Clothing,North,2,668,0,1336.0,Credit Card,Shipped
+10605,1485,2023-09-16,Headphones,Electronics,South,3,600,5,1710.0,Credit Card,Pending
+10606,1833,2023-11-12,Watch,Accessories,South,4,1110,0,4440.0,Cash,Shipped
+10607,1049,2023-06-03,Shirt,Clothing,West,1,1348,10,1213.2,Credit Card,Delivered
+10608,1653,2023-03-11,Jeans,Clothing,North,1,1353,5,1285.35,UPI,Pending
+10609,1758,2023-10-26,Watch,Accessories,North,5,231,0,1155.0,Credit Card,Delivered
+10610,1234,2023-11-06,Laptop,Electronics,West,4,1311,10,4719.6,Debit Card,Pending
+10611,1581,2023-06-25,Shirt,Clothing,North,2,569,0,1138.0,Credit Card,Delivered
+10612,1582,2023-07-04,Watch,Accessories,West,4,643,15,2186.2,Cash,Pending
+10613,1758,2023-11-17,Headphones,Electronics,South,3,1258,15,3207.9,UPI,Shipped
+10614,1008,2023-05-20,Headphones,Electronics,West,5,1410,15,5992.5,Credit Card,Pending
+10615,1523,2023-10-28,Jeans,Clothing,South,3,882,10,2381.4,UPI,Shipped
+10616,1306,2023-02-07,Shirt,Clothing,East,1,1096,0,1096.0,UPI,Delivered
+10617,1415,2023-06-09,Shoes,Clothing,East,5,1259,5,5980.25,Debit Card,Delivered
+10618,1488,2023-06-20,Shoes,Clothing,North,5,788,0,3940.0,Debit Card,Shipped
+10619,1464,2023-12-05,Jeans,Clothing,North,5,1258,15,5346.5,UPI,Shipped
+10620,1615,2023-11-23,Headphones,Electronics,West,5,429,10,1930.5,Credit Card,Pending
+10621,1321,2023-06-21,Watch,Accessories,South,4,506,15,1720.3999999999999,Debit Card,Pending
+10622,1773,2023-04-24,Shirt,Clothing,South,1,130,5,123.5,UPI,Pending
+10623,1148,2023-03-22,Tablet,Electronics,West,3,1359,15,3465.45,Credit Card,Shipped
+10624,1623,2023-09-07,Headphones,Electronics,South,5,389,10,1750.5,Debit Card,Shipped
+10625,1673,2023-02-08,Shoes,Clothing,South,5,351,5,1667.25,UPI,Delivered
+10626,1681,2023-09-27,Shirt,Clothing,South,4,690,10,2484.0,Credit Card,Shipped
+10627,1257,2023-09-20,Watch,Accessories,North,3,341,10,920.7,UPI,Pending
+10628,1149,2023-11-01,Watch,Accessories,West,3,431,0,1293.0,UPI,Delivered
+10629,1151,2023-11-03,Phone,Electronics,West,1,824,15,700.4,Debit Card,Shipped
+10630,1369,2023-02-06,Shirt,Clothing,East,4,321,0,1284.0,Cash,Shipped
+10631,1663,2023-11-16,Watch,Accessories,North,3,1120,0,3360.0,Debit Card,Pending
+10632,1981,2023-05-31,Laptop,Electronics,East,1,1455,10,1309.5,Credit Card,Shipped
+10633,1470,2023-05-06,Shirt,Clothing,West,3,178,10,480.6,Cash,Delivered
+10634,1453,2023-08-06,Jeans,Clothing,East,2,870,5,1653.0,UPI,Shipped
+10635,1693,2023-02-02,Jeans,Clothing,West,2,947,15,1609.8999999999999,Cash,Shipped
+10636,1654,2023-01-24,Watch,Accessories,West,4,1451,10,5223.6,Debit Card,Delivered
+10637,1605,2023-07-30,Phone,Electronics,East,1,253,15,215.04999999999998,UPI,Pending
+10638,1436,2023-02-13,Shoes,Clothing,North,3,835,5,2379.75,Debit Card,Pending
+10639,1843,2023-07-19,Shoes,Clothing,West,3,776,10,2095.2000000000003,Credit Card,Delivered
+10640,1399,2023-04-20,Headphones,Electronics,West,5,711,10,3199.5,Credit Card,Shipped
+10641,1989,2023-07-20,Headphones,Electronics,South,3,1354,15,3452.7,UPI,Pending
+10642,1303,2023-09-29,Headphones,Electronics,East,3,973,10,2627.1,UPI,Shipped
+10643,1463,2023-06-21,Shoes,Clothing,West,5,1402,5,6659.5,UPI,Delivered
+10644,1789,2023-07-26,Laptop,Electronics,North,1,137,15,116.45,Cash,Delivered
+10645,1874,2023-03-10,Tablet,Electronics,West,5,238,15,1011.5,Debit Card,Delivered
+10646,1419,2023-10-02,Shoes,Clothing,North,1,1227,15,1042.95,Cash,Delivered
+10647,1125,2023-10-18,Laptop,Electronics,West,1,1159,0,1159.0,Debit Card,Pending
+10648,1600,2023-09-16,Laptop,Electronics,East,1,87,5,82.64999999999999,UPI,Pending
+10649,1472,2023-12-27,Watch,Accessories,South,5,589,0,2945.0,Credit Card,Shipped
+10650,1531,2023-11-26,Tablet,Electronics,North,5,1459,15,6200.75,Cash,Shipped
+10651,1546,2023-12-29,Laptop,Electronics,North,3,119,0,357.0,Cash,Pending
+10652,1448,2023-10-26,Watch,Accessories,East,3,1314,0,3942.0,Cash,Delivered
+10653,1076,2023-06-16,Shoes,Clothing,North,1,1211,10,1089.9,Credit Card,Shipped
+10654,1240,2023-10-17,Shirt,Clothing,West,1,618,5,587.1,Cash,Shipped
+10655,1908,2023-05-28,Watch,Accessories,South,1,408,15,346.8,UPI,Shipped
+10656,1712,2023-09-01,Watch,Accessories,North,2,720,5,1368.0,Credit Card,Shipped
+10657,1377,2023-05-20,Shoes,Clothing,East,3,828,5,2359.7999999999997,Debit Card,Pending
+10658,1721,2023-09-03,Tablet,Electronics,North,2,106,10,190.8,Cash,Shipped
+10659,1789,2023-12-06,Tablet,Electronics,North,2,1065,5,2023.5,Debit Card,Shipped
+10660,1457,2023-11-01,Tablet,Electronics,West,1,274,10,246.6,Debit Card,Delivered
+10661,1982,2023-09-03,Laptop,Electronics,South,1,290,5,275.5,Credit Card,Shipped
+10662,1025,2023-06-11,Shirt,Clothing,South,3,1193,0,3579.0,UPI,Delivered
+10663,1148,2023-03-14,Shoes,Clothing,East,3,117,15,298.34999999999997,UPI,Delivered
+10664,1185,2023-03-13,Shirt,Clothing,West,1,1106,5,1050.7,UPI,Delivered
+10665,1550,2023-01-26,Shirt,Clothing,North,3,684,0,2052.0,Credit Card,Pending
+10666,1702,2023-08-03,Shoes,Clothing,East,2,874,15,1485.8,Credit Card,Delivered
+10667,1457,2023-10-27,Headphones,Electronics,West,4,923,5,3507.3999999999996,Debit Card,Shipped
+10668,1911,2023-04-18,Phone,Electronics,West,2,69,0,138.0,Debit Card,Shipped
+10669,1458,2023-03-07,Laptop,Electronics,South,4,988,5,3754.3999999999996,Credit Card,Shipped
+10670,1024,2023-08-31,Headphones,Electronics,South,5,51,0,255.0,UPI,Pending
+10671,1580,2023-10-18,Watch,Accessories,West,3,725,15,1848.75,Credit Card,Shipped
+10672,1255,2023-09-26,Shirt,Clothing,North,1,1339,15,1138.1499999999999,Credit Card,Pending
+10673,1787,2023-10-05,Tablet,Electronics,East,1,1401,15,1190.85,Cash,Delivered
+10674,1397,2023-08-10,Tablet,Electronics,West,2,1055,10,1899.0,UPI,Shipped
+10675,1882,2023-03-30,Watch,Accessories,West,2,1433,10,2579.4,Debit Card,Shipped
+10676,1566,2023-05-21,Shoes,Clothing,South,2,381,5,723.9,Debit Card,Pending
+10677,1574,2023-11-09,Laptop,Electronics,West,4,539,0,2156.0,Cash,Pending
+10678,1943,2023-11-18,Shirt,Clothing,North,5,1032,10,4644.0,Debit Card,Pending
+10679,1357,2023-11-19,Watch,Accessories,West,3,1319,0,3957.0,UPI,Pending
+10680,1331,2023-12-16,Shoes,Clothing,West,2,388,0,776.0,UPI,Pending
+10681,1805,2023-07-31,Headphones,Electronics,East,4,167,0,668.0,Credit Card,Shipped
+10682,1445,2023-09-03,Watch,Accessories,East,5,220,5,1045.0,UPI,Pending
+10683,1680,2023-12-14,Watch,Accessories,North,2,798,5,1516.1999999999998,Debit Card,Delivered
+10684,1797,2023-11-02,Jeans,Clothing,East,3,103,0,309.0,Credit Card,Pending
+10685,1030,2023-09-15,Shoes,Clothing,West,4,505,5,1919.0,Debit Card,Delivered
+10686,1512,2023-10-16,Shirt,Clothing,North,2,783,10,1409.4,Debit Card,Delivered
+10687,1756,2023-11-03,Headphones,Electronics,East,4,921,15,3131.4,Cash,Delivered
+10688,1660,2023-01-03,Watch,Accessories,South,2,1397,10,2514.6,Cash,Pending
+10689,1868,2023-09-13,Laptop,Electronics,South,2,1020,10,1836.0,Credit Card,Pending
+10690,1198,2023-09-10,Shoes,Clothing,East,4,598,15,2033.2,Credit Card,Delivered
+10691,1993,2023-07-22,Watch,Accessories,East,3,837,0,2511.0,Credit Card,Delivered
+10692,1250,2023-04-06,Headphones,Electronics,East,1,1420,0,1420.0,Credit Card,Shipped
+10693,1062,2023-04-30,Jeans,Clothing,South,5,1111,15,4721.75,Debit Card,Pending
+10694,1955,2023-06-03,Jeans,Clothing,North,2,509,0,1018.0,Credit Card,Delivered
+10695,1308,2023-10-24,Shirt,Clothing,South,3,1094,5,3117.8999999999996,Debit Card,Pending
+10696,1945,2023-07-12,Shirt,Clothing,South,4,765,10,2754.0,Debit Card,Shipped
+10697,1081,2023-12-05,Jeans,Clothing,South,4,1351,15,4593.4,Debit Card,Delivered
+10698,1932,2023-12-06,Phone,Electronics,North,1,1454,10,1308.6000000000001,UPI,Pending
+10699,1053,2023-12-01,Headphones,Electronics,South,2,469,5,891.0999999999999,UPI,Shipped
+10700,1578,2023-04-21,Laptop,Electronics,South,2,890,15,1513.0,Cash,Shipped
+10701,1076,2023-05-06,Tablet,Electronics,North,2,213,0,426.0,Cash,Pending
+10702,1983,2023-08-21,Headphones,Electronics,South,2,1079,0,2158.0,Debit Card,Delivered
+10703,1422,2023-12-07,Headphones,Electronics,South,2,376,15,639.1999999999999,UPI,Delivered
+10704,1747,2023-12-02,Tablet,Electronics,North,4,361,5,1371.8,Credit Card,Delivered
+10705,1342,2023-01-04,Jeans,Clothing,West,4,904,0,3616.0,Credit Card,Shipped
+10706,1145,2023-07-17,Shoes,Clothing,South,1,652,10,586.8000000000001,Cash,Shipped
+10707,1171,2023-09-02,Shirt,Clothing,West,4,795,0,3180.0,Credit Card,Pending
+10708,1755,2023-10-20,Headphones,Electronics,East,3,1255,15,3200.25,UPI,Delivered
+10709,1930,2023-06-28,Headphones,Electronics,West,1,883,5,838.8499999999999,Debit Card,Shipped
+10710,1300,2023-09-28,Shoes,Clothing,East,4,1278,0,5112.0,Cash,Shipped
+10711,1702,2023-01-14,Shirt,Clothing,East,5,605,5,2873.75,UPI,Pending
+10712,1868,2023-01-08,Jeans,Clothing,East,4,1312,15,4460.8,Credit Card,Pending
+10713,1447,2023-10-29,Headphones,Electronics,North,1,1426,10,1283.4,UPI,Pending
+10714,1625,2023-11-06,Shirt,Clothing,East,5,1481,15,6294.25,Cash,Delivered
+10715,1621,2023-03-16,Shirt,Clothing,North,3,463,0,1389.0,Credit Card,Delivered
+10716,1232,2023-07-16,Shoes,Clothing,East,4,270,15,918.0,UPI,Shipped
+10717,1950,2023-08-01,Phone,Electronics,North,3,195,5,555.75,Credit Card,Pending
+10718,1005,2023-10-04,Phone,Electronics,West,4,398,15,1353.2,Cash,Pending
+10719,1925,2023-04-09,Shirt,Clothing,West,1,278,0,278.0,Debit Card,Pending
+10720,1166,2023-07-09,Laptop,Electronics,North,4,712,5,2705.6,Credit Card,Delivered
+10721,1279,2023-01-28,Tablet,Electronics,West,5,1029,10,4630.5,Debit Card,Shipped
+10722,1056,2023-09-16,Laptop,Electronics,North,3,1201,15,3062.5499999999997,Credit Card,Shipped
+10723,1515,2023-12-03,Shirt,Clothing,North,3,1089,15,2776.95,Cash,Delivered
+10724,1286,2023-07-02,Jeans,Clothing,North,2,159,15,270.3,Debit Card,Pending
+10725,1441,2023-05-08,Shirt,Clothing,West,2,749,0,1498.0,UPI,Delivered
+10726,1689,2023-06-14,Shirt,Clothing,East,3,1450,15,3697.5,Cash,Shipped
+10727,1591,2023-01-31,Shoes,Clothing,South,1,391,10,351.90000000000003,Credit Card,Shipped
+10728,1345,2023-02-18,Laptop,Electronics,East,1,553,10,497.7,Debit Card,Delivered
+10729,1571,2023-05-30,Headphones,Electronics,South,5,176,15,748.0,Cash,Pending
+10730,1554,2023-01-28,Shoes,Clothing,West,5,191,10,859.5,Debit Card,Pending
+10731,1259,2023-04-06,Shirt,Clothing,West,4,1438,10,5176.8,Cash,Pending
+10732,1807,2023-07-01,Phone,Electronics,North,1,1496,5,1421.2,Debit Card,Delivered
+10733,1018,2023-07-23,Watch,Accessories,South,4,1485,15,5049.0,Debit Card,Shipped
+10734,1320,2023-09-28,Laptop,Electronics,East,3,1304,0,3912.0,Debit Card,Shipped
+10735,1540,2023-11-11,Tablet,Electronics,East,3,370,5,1054.5,Debit Card,Shipped
+10736,1331,2023-02-22,Headphones,Electronics,North,1,1494,15,1269.8999999999999,UPI,Pending
+10737,1879,2023-10-16,Phone,Electronics,West,1,101,15,85.85,Cash,Shipped
+10738,1952,2023-05-14,Jeans,Clothing,North,1,804,5,763.8,Credit Card,Pending
+10739,1501,2023-05-28,Headphones,Electronics,West,4,995,10,3582.0,Debit Card,Shipped
+10740,1370,2023-06-25,Shirt,Clothing,South,4,168,0,672.0,Credit Card,Shipped
+10741,1711,2023-06-12,Shoes,Clothing,South,5,855,5,4061.25,Cash,Pending
+10742,1000,2023-12-25,Jeans,Clothing,South,5,309,10,1390.5,Debit Card,Pending
+10743,1509,2023-08-08,Tablet,Electronics,West,4,1127,0,4508.0,Cash,Pending
+10744,1936,2023-02-10,Phone,Electronics,South,2,138,0,276.0,Credit Card,Shipped
+10745,1102,2023-12-25,Headphones,Electronics,North,2,1311,0,2622.0,Cash,Delivered
+10746,1933,2023-08-23,Shoes,Clothing,West,3,191,0,573.0,Debit Card,Delivered
+10747,1964,2023-10-30,Tablet,Electronics,East,4,799,5,3036.2,Debit Card,Pending
+10748,1062,2023-06-03,Laptop,Electronics,South,3,597,5,1701.4499999999998,Credit Card,Pending
+10749,1739,2023-07-25,Tablet,Electronics,East,5,665,5,3158.75,UPI,Shipped
+10750,1858,2023-02-14,Headphones,Electronics,North,1,60,15,51.0,Cash,Shipped
+10751,1374,2023-11-09,Jeans,Clothing,West,4,1378,15,4685.2,Cash,Shipped
+10752,1662,2023-04-24,Shoes,Clothing,North,4,515,15,1751.0,Cash,Delivered
+10753,1699,2023-12-05,Headphones,Electronics,West,4,1333,15,4532.2,UPI,Delivered
+10754,1730,2023-11-04,Jeans,Clothing,South,4,972,0,3888.0,UPI,Pending
+10755,1180,2023-08-12,Phone,Electronics,North,2,352,10,633.6,UPI,Shipped
+10756,1765,2023-04-05,Tablet,Electronics,East,4,509,10,1832.4,Debit Card,Delivered
+10757,1848,2023-11-24,Shoes,Clothing,East,4,1270,10,4572.0,Cash,Shipped
+10758,1203,2023-12-11,Watch,Accessories,East,4,683,10,2458.8,Cash,Pending
+10759,1696,2023-09-03,Tablet,Electronics,West,4,91,10,327.6,Credit Card,Pending
+10760,1957,2023-01-23,Watch,Accessories,East,2,155,15,263.5,Credit Card,Delivered
+10761,1361,2023-04-14,Shirt,Clothing,North,3,418,5,1191.3,Debit Card,Pending
+10762,1394,2023-10-06,Phone,Electronics,North,1,1331,10,1197.9,Debit Card,Shipped
+10763,1959,2023-01-27,Laptop,Electronics,West,1,1200,10,1080.0,Cash,Delivered
+10764,1359,2023-05-07,Phone,Electronics,East,4,126,10,453.6,Debit Card,Delivered
+10765,1928,2023-07-27,Shirt,Clothing,West,4,202,10,727.2,Credit Card,Delivered
+10766,1162,2023-02-04,Tablet,Electronics,West,3,912,10,2462.4,Debit Card,Pending
+10767,1576,2023-08-18,Tablet,Electronics,South,1,1132,0,1132.0,UPI,Pending
+10768,1348,2023-09-08,Laptop,Electronics,East,1,1027,0,1027.0,Credit Card,Shipped
+10769,1727,2023-04-29,Laptop,Electronics,North,1,505,5,479.75,Cash,Delivered
+10770,1443,2023-07-13,Shirt,Clothing,North,1,112,10,100.8,Credit Card,Pending
+10771,1796,2023-11-07,Headphones,Electronics,North,3,794,15,2024.7,Debit Card,Delivered
+10772,1097,2023-12-30,Laptop,Electronics,North,3,1467,10,3960.9,Credit Card,Shipped
+10773,1955,2023-08-18,Headphones,Electronics,East,4,1031,5,3917.7999999999997,Cash,Delivered
+10774,1476,2023-01-06,Phone,Electronics,South,5,812,15,3451.0,Cash,Shipped
+10775,1642,2023-04-21,Shoes,Clothing,West,4,106,15,360.4,Cash,Pending
+10776,1909,2023-09-11,Shoes,Clothing,East,2,186,5,353.4,UPI,Pending
+10777,1896,2023-08-17,Tablet,Electronics,South,3,1420,5,4047.0,Debit Card,Shipped
+10778,1221,2023-01-04,Jeans,Clothing,North,2,224,0,448.0,Credit Card,Shipped
+10779,1823,2023-09-06,Laptop,Electronics,West,2,248,0,496.0,UPI,Shipped
+10780,1225,2023-12-09,Phone,Electronics,North,5,926,5,4398.5,Debit Card,Delivered
+10781,1083,2023-05-04,Shoes,Clothing,East,4,1252,5,4757.599999999999,UPI,Shipped
+10782,1886,2023-04-02,Laptop,Electronics,South,2,335,0,670.0,Cash,Delivered
+10783,1337,2023-06-15,Shirt,Clothing,East,3,1401,5,3992.85,Debit Card,Delivered
+10784,1247,2023-05-29,Phone,Electronics,South,4,430,5,1634.0,Cash,Shipped
+10785,1341,2023-11-24,Tablet,Electronics,West,3,426,15,1086.3,UPI,Delivered
+10786,1112,2023-12-20,Laptop,Electronics,South,5,715,10,3217.5,Cash,Delivered
+10787,1239,2023-11-03,Shoes,Clothing,South,5,879,0,4395.0,Credit Card,Shipped
+10788,1033,2023-02-20,Shirt,Clothing,North,3,173,5,493.04999999999995,Debit Card,Delivered
+10789,1991,2023-07-28,Phone,Electronics,North,3,1355,0,4065.0,UPI,Pending
+10790,1235,2023-05-31,Shoes,Clothing,South,5,390,15,1657.5,UPI,Delivered
+10791,1779,2023-08-08,Shirt,Clothing,East,4,492,5,1869.6,Credit Card,Pending
+10792,1516,2023-11-12,Shirt,Clothing,East,1,1008,15,856.8,Credit Card,Shipped
+10793,1476,2023-07-05,Shirt,Clothing,East,4,484,15,1645.6,Credit Card,Delivered
+10794,1927,2023-08-25,Shirt,Clothing,North,1,1074,10,966.6,Credit Card,Delivered
+10795,1949,2023-01-15,Jeans,Clothing,West,5,1129,10,5080.5,Credit Card,Pending
+10796,1919,2023-06-18,Watch,Accessories,South,1,662,0,662.0,Debit Card,Delivered
+10797,1960,2023-01-25,Jeans,Clothing,East,3,1175,15,2996.25,Credit Card,Shipped
+10798,1131,2023-12-11,Shirt,Clothing,East,5,1245,15,5291.25,Cash,Pending
+10799,1056,2023-10-31,Jeans,Clothing,South,2,508,5,965.1999999999999,Credit Card,Shipped
+10800,1509,2023-09-05,Headphones,Electronics,West,5,1321,5,6274.75,Cash,Delivered
+10801,1501,2023-11-29,Watch,Accessories,North,5,784,0,3920.0,UPI,Shipped
+10802,1356,2023-01-25,Shirt,Clothing,East,1,596,5,566.1999999999999,Cash,Delivered
+10803,1578,2023-01-27,Tablet,Electronics,North,1,1301,0,1301.0,Cash,Pending
+10804,1582,2023-09-27,Tablet,Electronics,West,1,1203,10,1082.7,Credit Card,Shipped
+10805,1892,2023-04-06,Phone,Electronics,East,2,216,5,410.4,Cash,Pending
+10806,1190,2023-04-13,Shoes,Clothing,North,5,241,10,1084.5,Debit Card,Pending
+10807,1192,2023-09-06,Shoes,Clothing,East,3,788,10,2127.6,Cash,Delivered
+10808,1954,2023-04-30,Headphones,Electronics,West,5,806,15,3425.5,Cash,Pending
+10809,1844,2023-01-07,Phone,Electronics,North,4,418,0,1672.0,Cash,Pending
+10810,1919,2023-03-11,Watch,Accessories,East,4,828,10,2980.8,Credit Card,Pending
+10811,1391,2023-11-11,Phone,Electronics,South,3,683,10,1844.1000000000001,UPI,Pending
+10812,1768,2023-12-22,Phone,Electronics,East,1,1076,15,914.6,UPI,Delivered
+10813,1504,2023-03-16,Phone,Electronics,West,5,91,15,386.75,Cash,Delivered
+10814,1694,2023-10-28,Phone,Electronics,South,5,816,5,3876.0,Cash,Delivered
+10815,1955,2023-10-25,Shoes,Clothing,West,2,269,5,511.09999999999997,Cash,Delivered
+10816,1862,2023-01-18,Tablet,Electronics,East,1,1135,0,1135.0,Cash,Delivered
+10817,1027,2023-09-19,Watch,Accessories,North,2,1007,15,1711.8999999999999,UPI,Delivered
+10818,1183,2023-04-13,Watch,Accessories,South,1,245,5,232.75,Debit Card,Shipped
+10819,1608,2023-06-20,Headphones,Electronics,West,5,70,10,315.0,Credit Card,Shipped
+10820,1271,2023-12-22,Phone,Electronics,East,3,66,5,188.1,Debit Card,Pending
+10821,1444,2023-10-20,Watch,Accessories,South,3,438,15,1116.8999999999999,Cash,Delivered
+10822,1630,2023-05-16,Shoes,Clothing,East,1,373,15,317.05,Credit Card,Shipped
+10823,1457,2023-02-05,Shoes,Clothing,East,1,427,15,362.95,Cash,Pending
+10824,1757,2023-02-24,Phone,Electronics,West,3,1390,10,3753.0,Credit Card,Pending
+10825,1578,2023-07-12,Headphones,Electronics,South,3,836,10,2257.2000000000003,Cash,Pending
+10826,1111,2023-12-01,Phone,Electronics,South,5,1339,5,6360.25,Cash,Shipped
+10827,1290,2023-12-15,Laptop,Electronics,South,1,347,10,312.3,UPI,Shipped
+10828,1271,2023-11-08,Laptop,Electronics,West,3,1364,10,3682.8,UPI,Delivered
+10829,1323,2023-07-27,Phone,Electronics,East,2,1019,0,2038.0,UPI,Pending
+10830,1165,2023-04-16,Laptop,Electronics,East,3,518,5,1476.3,UPI,Pending
+10831,1484,2023-01-05,Watch,Accessories,South,5,1422,10,6399.0,UPI,Shipped
+10832,1064,2023-06-14,Headphones,Electronics,South,3,1466,15,3738.2999999999997,Credit Card,Pending
+10833,1861,2023-06-21,Jeans,Clothing,East,5,265,0,1325.0,UPI,Delivered
+10834,1714,2023-03-04,Shoes,Clothing,West,1,447,15,379.95,Cash,Pending
+10835,1174,2023-08-26,Phone,Electronics,South,5,851,15,3616.75,Cash,Delivered
+10836,1573,2023-12-10,Shoes,Clothing,South,2,1349,15,2293.2999999999997,Debit Card,Delivered
+10837,1630,2023-08-21,Watch,Accessories,West,4,314,5,1193.2,UPI,Pending
+10838,1457,2023-06-15,Phone,Electronics,East,2,485,10,873.0,Credit Card,Delivered
+10839,1154,2023-02-03,Jeans,Clothing,West,5,958,0,4790.0,Cash,Pending
+10840,1040,2023-02-03,Laptop,Electronics,North,3,1445,0,4335.0,UPI,Shipped
+10841,1119,2023-09-18,Laptop,Electronics,North,1,1047,15,889.9499999999999,UPI,Pending
+10842,1223,2023-10-13,Headphones,Electronics,North,2,1123,5,2133.7,Debit Card,Delivered
+10843,1986,2023-09-20,Shoes,Clothing,East,5,412,10,1854.0,Debit Card,Pending
+10844,1059,2023-06-25,Shirt,Clothing,East,4,213,0,852.0,Debit Card,Pending
+10845,1120,2023-12-09,Jeans,Clothing,South,3,740,15,1887.0,UPI,Shipped
+10846,1294,2023-09-04,Headphones,Electronics,North,2,573,5,1088.7,Debit Card,Pending
+10847,1297,2023-06-27,Shirt,Clothing,West,3,332,5,946.1999999999999,Cash,Pending
+10848,1114,2023-10-07,Phone,Electronics,West,1,1179,10,1061.1000000000001,Credit Card,Shipped
+10849,1501,2023-10-03,Shirt,Clothing,East,3,441,5,1256.85,Credit Card,Shipped
+10850,1961,2023-07-12,Headphones,Electronics,West,4,1422,0,5688.0,Credit Card,Delivered
+10851,1269,2023-09-25,Watch,Accessories,West,5,411,15,1746.75,Debit Card,Shipped
+10852,1659,2023-05-25,Shoes,Clothing,East,2,1327,15,2255.9,Cash,Shipped
+10853,1324,2023-12-12,Headphones,Electronics,South,5,819,5,3890.25,Credit Card,Shipped
+10854,1140,2023-08-27,Shoes,Clothing,West,4,877,0,3508.0,Cash,Shipped
+10855,1659,2023-09-20,Watch,Accessories,West,4,1027,15,3491.7999999999997,UPI,Shipped
+10856,1507,2023-04-02,Shoes,Clothing,South,4,1268,15,4311.2,Credit Card,Shipped
+10857,1681,2023-02-10,Tablet,Electronics,West,1,1103,0,1103.0,Credit Card,Delivered
+10858,1849,2023-04-20,Shirt,Clothing,North,5,613,15,2605.25,UPI,Delivered
+10859,1892,2023-06-14,Tablet,Electronics,South,1,320,0,320.0,Credit Card,Shipped
+10860,1517,2023-05-22,Headphones,Electronics,North,1,350,5,332.5,Credit Card,Shipped
+10861,1812,2023-06-04,Shirt,Clothing,North,4,223,15,758.1999999999999,UPI,Pending
+10862,1434,2023-05-16,Jeans,Clothing,West,5,189,15,803.25,Debit Card,Delivered
+10863,1199,2023-09-24,Laptop,Electronics,South,4,1350,10,4860.0,Debit Card,Pending
+10864,1719,2023-04-21,Shirt,Clothing,North,2,1419,0,2838.0,Debit Card,Shipped
+10865,1168,2023-02-16,Laptop,Electronics,West,3,511,10,1379.7,Cash,Shipped
+10866,1292,2023-07-27,Laptop,Electronics,East,1,1399,15,1189.1499999999999,UPI,Pending
+10867,1289,2023-01-14,Shoes,Clothing,East,4,135,10,486.0,Credit Card,Shipped
+10868,1901,2023-07-07,Laptop,Electronics,West,1,1294,10,1164.6000000000001,Credit Card,Pending
+10869,1813,2023-01-27,Tablet,Electronics,North,3,250,10,675.0,Debit Card,Delivered
+10870,1465,2023-11-17,Phone,Electronics,West,2,101,15,171.7,Credit Card,Pending
+10871,1570,2023-01-30,Shoes,Clothing,East,4,359,10,1292.4,Credit Card,Pending
+10872,1552,2023-01-20,Watch,Accessories,West,2,684,0,1368.0,Cash,Shipped
+10873,1404,2023-04-14,Tablet,Electronics,West,1,1229,15,1044.6499999999999,UPI,Delivered
+10874,1293,2023-09-18,Shirt,Clothing,West,3,857,0,2571.0,UPI,Shipped
+10875,1061,2023-02-11,Watch,Accessories,West,4,655,10,2358.0,UPI,Pending
+10876,1222,2023-02-22,Watch,Accessories,South,4,759,10,2732.4,Credit Card,Pending
+10877,1477,2023-10-18,Laptop,Electronics,East,5,376,0,1880.0,Cash,Pending
+10878,1456,2023-06-13,Watch,Accessories,North,4,1486,10,5349.6,UPI,Pending
+10879,1770,2023-03-15,Phone,Electronics,East,5,1010,0,5050.0,Debit Card,Delivered
+10880,1074,2023-02-17,Shoes,Clothing,East,2,1302,5,2473.7999999999997,Debit Card,Shipped
+10881,1840,2023-04-03,Phone,Electronics,North,2,1349,10,2428.2000000000003,Credit Card,Delivered
+10882,1731,2023-06-15,Phone,Electronics,North,4,509,15,1730.6,UPI,Shipped
+10883,1862,2023-06-08,Watch,Accessories,West,3,206,10,556.2,UPI,Pending
+10884,1468,2023-07-19,Shirt,Clothing,South,3,1322,5,3767.7,UPI,Shipped
+10885,1860,2023-06-03,Jeans,Clothing,South,1,1243,15,1056.55,Debit Card,Delivered
+10886,1341,2023-12-01,Tablet,Electronics,South,3,539,5,1536.1499999999999,UPI,Pending
+10887,1741,2023-02-14,Phone,Electronics,North,5,1052,10,4734.0,Debit Card,Delivered
+10888,1644,2023-11-03,Tablet,Electronics,West,1,955,5,907.25,Credit Card,Delivered
+10889,1064,2023-06-05,Jeans,Clothing,South,2,632,10,1137.6000000000001,UPI,Pending
+10890,1659,2023-04-05,Watch,Accessories,East,2,1430,5,2717.0,Credit Card,Delivered
+10891,1273,2023-11-24,Shirt,Clothing,South,4,1140,10,4104.0,Debit Card,Pending
+10892,1793,2023-06-01,Laptop,Electronics,South,3,271,10,731.7,Debit Card,Delivered
+10893,1745,2023-06-05,Headphones,Electronics,East,3,141,15,359.55,Cash,Pending
+10894,1865,2023-08-24,Shoes,Clothing,North,1,1438,5,1366.1,Cash,Shipped
+10895,1536,2023-11-22,Phone,Electronics,North,4,535,15,1819.0,UPI,Delivered
+10896,1728,2023-07-27,Shirt,Clothing,South,3,351,5,1000.3499999999999,Debit Card,Pending
+10897,1975,2023-08-23,Watch,Accessories,West,1,311,5,295.45,UPI,Shipped
+10898,1912,2023-02-18,Phone,Electronics,South,3,608,5,1732.8,Credit Card,Delivered
+10899,1740,2023-10-07,Shoes,Clothing,North,2,1081,0,2162.0,Debit Card,Delivered
+10900,1265,2023-05-18,Jeans,Clothing,South,4,1455,10,5238.0,Credit Card,Delivered
+10901,1962,2023-04-14,Shoes,Clothing,South,4,462,15,1570.8,Cash,Shipped
+10902,1857,2023-03-30,Watch,Accessories,West,2,818,10,1472.4,Credit Card,Pending
+10903,1865,2023-11-18,Jeans,Clothing,East,2,371,10,667.8000000000001,UPI,Shipped
+10904,1509,2023-06-03,Jeans,Clothing,East,1,453,15,385.05,Debit Card,Delivered
+10905,1983,2023-06-11,Headphones,Electronics,West,2,135,0,270.0,Cash,Delivered
+10906,1849,2023-07-06,Watch,Accessories,West,2,149,15,253.29999999999998,Cash,Pending
+10907,1535,2023-08-29,Tablet,Electronics,West,2,221,0,442.0,Cash,Shipped
+10908,1096,2023-11-19,Shirt,Clothing,North,4,1152,0,4608.0,Debit Card,Pending
+10909,1874,2023-04-06,Tablet,Electronics,West,4,113,15,384.2,Credit Card,Shipped
+10910,1936,2023-12-25,Tablet,Electronics,East,1,718,5,682.1,Debit Card,Shipped
+10911,1636,2023-04-16,Jeans,Clothing,West,3,853,10,2303.1,Credit Card,Shipped
+10912,1858,2023-11-27,Laptop,Electronics,North,3,843,10,2276.1,UPI,Shipped
+10913,1340,2023-09-06,Jeans,Clothing,West,4,298,0,1192.0,UPI,Delivered
+10914,1267,2023-03-15,Tablet,Electronics,South,2,493,5,936.6999999999999,UPI,Pending
+10915,1609,2023-10-05,Headphones,Electronics,South,5,346,10,1557.0,Cash,Delivered
+10916,1759,2023-05-30,Headphones,Electronics,West,3,835,10,2254.5,Credit Card,Delivered
+10917,1748,2023-09-25,Jeans,Clothing,South,2,1318,5,2504.2,Debit Card,Delivered
+10918,1770,2023-03-30,Laptop,Electronics,West,3,232,5,661.1999999999999,UPI,Shipped
+10919,1279,2023-10-06,Watch,Accessories,West,4,1381,10,4971.6,Credit Card,Shipped
+10920,1444,2023-12-27,Jeans,Clothing,East,1,526,5,499.7,Cash,Shipped
+10921,1604,2023-08-18,Laptop,Electronics,North,3,1154,10,3115.8,Debit Card,Delivered
+10922,1840,2023-10-18,Tablet,Electronics,East,3,1340,10,3618.0,UPI,Shipped
+10923,1154,2023-02-08,Phone,Electronics,West,1,284,5,269.8,Debit Card,Delivered
+10924,1073,2023-11-12,Shirt,Clothing,East,5,1318,0,6590.0,Debit Card,Pending
+10925,1437,2023-12-31,Tablet,Electronics,North,4,1006,5,3822.7999999999997,Credit Card,Delivered
+10926,1204,2023-03-10,Shirt,Clothing,East,2,1256,5,2386.4,UPI,Delivered
+10927,1434,2023-06-02,Shoes,Clothing,West,5,1485,15,6311.25,UPI,Shipped
+10928,1416,2023-02-28,Laptop,Electronics,North,3,1077,5,3069.45,Debit Card,Shipped
+10929,1739,2023-01-06,Headphones,Electronics,North,1,1492,10,1342.8,Credit Card,Pending
+10930,1459,2023-06-06,Jeans,Clothing,East,1,214,15,181.9,Cash,Pending
+10931,1352,2023-09-12,Phone,Electronics,North,5,1349,5,6407.75,Credit Card,Delivered
+10932,1361,2023-09-15,Shoes,Clothing,South,3,1186,10,3202.2000000000003,UPI,Pending
+10933,1399,2023-10-18,Phone,Electronics,East,3,1129,0,3387.0,Debit Card,Pending
+10934,1067,2023-05-22,Laptop,Electronics,East,1,1157,10,1041.3,Cash,Shipped
+10935,1239,2023-03-08,Jeans,Clothing,South,2,1395,10,2511.0,Credit Card,Pending
+10936,1320,2023-04-26,Watch,Accessories,South,4,1196,0,4784.0,Cash,Delivered
+10937,1798,2023-09-09,Jeans,Clothing,South,2,1082,0,2164.0,Credit Card,Pending
+10938,1006,2023-01-12,Phone,Electronics,North,4,510,15,1734.0,Debit Card,Delivered
+10939,1232,2023-10-22,Shirt,Clothing,North,3,1323,10,3572.1,Cash,Pending
+10940,1453,2023-07-22,Shoes,Clothing,North,2,477,5,906.3,Cash,Pending
+10941,1335,2023-11-03,Phone,Electronics,South,5,1466,5,6963.5,Debit Card,Shipped
+10942,1008,2023-12-19,Tablet,Electronics,West,5,579,15,2460.75,Credit Card,Delivered
+10943,1635,2023-03-28,Shoes,Clothing,East,2,1047,15,1779.8999999999999,Cash,Delivered
+10944,1512,2023-08-28,Tablet,Electronics,South,3,1297,5,3696.45,UPI,Delivered
+10945,1529,2023-03-09,Jeans,Clothing,West,4,161,15,547.4,Credit Card,Shipped
+10946,1262,2023-02-18,Tablet,Electronics,West,1,315,0,315.0,Debit Card,Shipped
+10947,1188,2023-07-23,Headphones,Electronics,North,2,396,5,752.4,Debit Card,Pending
+10948,1948,2023-10-03,Shoes,Clothing,South,4,422,15,1434.8,Debit Card,Pending
+10949,1296,2023-05-07,Laptop,Electronics,North,5,923,15,3922.75,Cash,Shipped
+10950,1626,2023-11-18,Phone,Electronics,South,3,1468,15,3743.4,Debit Card,Delivered
+10951,1792,2023-06-18,Tablet,Electronics,North,1,1110,15,943.5,UPI,Delivered
+10952,1345,2023-12-12,Shirt,Clothing,East,4,1092,0,4368.0,Cash,Shipped
+10953,1326,2023-11-06,Headphones,Electronics,North,2,143,0,286.0,Cash,Shipped
+10954,1213,2023-11-16,Watch,Accessories,East,2,894,0,1788.0,Debit Card,Pending
+10955,1113,2023-01-22,Headphones,Electronics,West,5,741,5,3519.75,Cash,Shipped
+10956,1900,2023-03-01,Headphones,Electronics,East,4,1427,10,5137.2,Credit Card,Delivered
+10957,1752,2023-09-19,Tablet,Electronics,North,2,1314,15,2233.7999999999997,Debit Card,Shipped
+10958,1860,2023-08-05,Tablet,Electronics,East,1,552,0,552.0,Credit Card,Shipped
+10959,1941,2023-12-09,Shoes,Clothing,West,5,309,5,1467.75,Credit Card,Delivered
+10960,1429,2023-08-28,Jeans,Clothing,North,3,850,5,2422.5,UPI,Shipped
+10961,1676,2023-06-10,Phone,Electronics,North,4,899,0,3596.0,Credit Card,Delivered
+10962,1353,2023-10-23,Phone,Electronics,North,4,187,0,748.0,Cash,Pending
+10963,1751,2023-01-17,Shoes,Clothing,North,3,686,0,2058.0,Credit Card,Shipped
+10964,1964,2023-08-17,Headphones,Electronics,North,1,625,0,625.0,UPI,Shipped
+10965,1241,2023-11-18,Laptop,Electronics,West,2,352,0,704.0,Debit Card,Shipped
+10966,1075,2023-05-28,Tablet,Electronics,South,4,273,0,1092.0,UPI,Shipped
+10967,1078,2023-03-16,Shirt,Clothing,North,3,769,10,2076.3,Cash,Delivered
+10968,1903,2023-04-23,Jeans,Clothing,West,4,911,15,3097.4,Debit Card,Pending
+10969,1661,2023-11-22,Watch,Accessories,North,5,723,10,3253.5,Credit Card,Delivered
+10970,1189,2023-01-23,Watch,Accessories,East,1,227,0,227.0,Cash,Pending
+10971,1914,2023-03-06,Tablet,Electronics,North,3,662,15,1688.1,Credit Card,Pending
+10972,1258,2023-05-02,Tablet,Electronics,East,2,1024,15,1740.8,Cash,Shipped
+10973,1350,2023-06-25,Phone,Electronics,North,2,473,10,851.4,UPI,Shipped
+10974,1099,2023-09-16,Shirt,Clothing,North,4,457,5,1736.6,Debit Card,Pending
+10975,1975,2023-06-12,Shirt,Clothing,East,5,1053,0,5265.0,UPI,Pending
+10976,1787,2023-05-11,Phone,Electronics,East,3,1428,10,3855.6,Credit Card,Shipped
+10977,1616,2023-07-10,Laptop,Electronics,East,1,639,10,575.1,Credit Card,Shipped
+10978,1167,2023-06-08,Headphones,Electronics,South,4,757,0,3028.0,UPI,Shipped
+10979,1665,2023-11-13,Tablet,Electronics,North,2,548,0,1096.0,Cash,Shipped
+10980,1762,2023-06-22,Phone,Electronics,West,5,532,5,2527.0,Debit Card,Pending
+10981,1449,2023-11-16,Phone,Electronics,North,3,506,10,1366.2,Debit Card,Shipped
+10982,1938,2023-03-09,Shoes,Clothing,West,1,289,10,260.1,UPI,Shipped
+10983,1789,2023-03-26,Tablet,Electronics,North,3,265,15,675.75,Credit Card,Delivered
+10984,1461,2023-02-13,Phone,Electronics,West,1,213,15,181.04999999999998,Debit Card,Pending
+10985,1239,2023-02-26,Watch,Accessories,North,1,488,10,439.2,UPI,Delivered
+10986,1514,2023-11-25,Shoes,Clothing,North,5,111,0,555.0,Cash,Delivered
+10987,1095,2023-10-19,Tablet,Electronics,North,5,69,5,327.75,UPI,Delivered
+10988,1794,2023-12-25,Phone,Electronics,South,3,543,5,1547.55,Debit Card,Pending
+10989,1837,2023-12-29,Laptop,Electronics,East,4,602,10,2167.2000000000003,Debit Card,Pending
+10990,1819,2023-05-03,Watch,Accessories,West,1,1483,0,1483.0,Debit Card,Pending
+10991,1575,2023-12-03,Shirt,Clothing,North,3,688,0,2064.0,UPI,Delivered
+10992,1690,2023-09-24,Shoes,Clothing,East,1,378,0,378.0,Cash,Shipped
+10993,1490,2023-05-24,Laptop,Electronics,West,4,111,5,421.79999999999995,UPI,Delivered
+10994,1238,2023-05-17,Headphones,Electronics,East,5,309,0,1545.0,UPI,Delivered
+10995,1300,2023-10-06,Headphones,Electronics,South,2,314,5,596.6,UPI,Shipped
+10996,1648,2023-01-15,Phone,Electronics,West,5,643,15,2732.75,Cash,Delivered
+10997,1707,2023-04-14,Jeans,Clothing,West,1,1246,10,1121.4,UPI,Shipped
+10998,1656,2023-12-06,Laptop,Electronics,West,1,93,15,79.05,Cash,Shipped
+10999,1310,2023-05-17,Tablet,Electronics,North,3,1405,15,3582.75,Debit Card,Shipped
